@@ -1,209 +1,132 @@
 # ==============================================================================
-# STEP 1: LOAD AND INSPECT YOUR SNOMED CODE LISTS
+# Clean and combine comorbidity codelists for CPRD observation mapping
+# Produces a single CSV with columns: code (SNOMED CT), disease
 # ==============================================================================
 
-# Load required package
 library(tidyverse)
 
-# Original CSV files
-asthma_codes <- read.csv("./comorbidities/code_lists/codelist_asthma.csv", stringsAsFactors = FALSE)
-cancer_codes <- read.csv("./comorbidities/code_lists/codelist_cancer.csv", stringsAsFactors = FALSE)
-copd_codes <- read.csv("./comorbidities/code_lists/codelist_copd.csv", stringsAsFactors = FALSE)
-depression_codes <- read.csv("./comorbidities/code_lists/codelist_depression.csv", stringsAsFactors = FALSE)
-htn_codes <- read.csv("./comorbidities/code_lists/codelist_htn.csv", stringsAsFactors = FALSE)
-obesity_codes <- read.csv("./comorbidities/code_lists/codelist_obesity.csv", stringsAsFactors = FALSE)
-t1dm_codes <- read.csv("./comorbidities/code_lists/codelist_t1dm.csv", stringsAsFactors = FALSE)
-t2dm_codes <- read.csv("./comorbidities/code_lists/codelist_t2dm.csv", stringsAsFactors = FALSE)
-congenital_codes <- read.csv("./comorbidities/code_lists/codelist_congenital.csv", stringsAsFactors = FALSE)
-mi_codes <- read.csv("./comorbidities/code_lists/codelist_mi.csv", stringsAsFactors = FALSE)
-ihd_codes <- read.csv("./comorbidities/code_lists/codelist_ihd.csv", stringsAsFactors = FALSE)
-hf_codes <- read.csv("./comorbidities/code_lists/codelist_hf.csv", stringsAsFactors = FALSE)
-af_codes <- read.csv("./comorbidities/code_lists/codelist_atrialfibrillation.csv", stringsAsFactors = FALSE)
-smoking_codes <- read.csv("./comorbidities/code_lists/codelist_smoking.csv", stringsAsFactors = FALSE)
-rheumatoid_codes <- read.csv("./comorbidities/code_lists/codelist_rheumatoid.csv", stringsAsFactors = FALSE)
-ckd_codes <- read.table("./comorbidities/code_lists/codelist_ckd.txt", 
-                        header = TRUE, 
-                        sep = "\t", 
-                        stringsAsFactors = FALSE)
+codelist_dir <- "./codelists/comorbidities"
 
-semi_codes <- read.table("./comorbidities/code_lists/codelist_smi.txt", 
-                         header = TRUE, 
-                         sep = "\t", 
-                         stringsAsFactors = FALSE)
-# Myocarditis/Pericarditis
-#mpc_codes <- read.table("./comorbidities/code_lists/codelist_mpc.txt", header = TRUE, sep = "\t", stringsAsFactors = FALSE)
+# Helper: standardise any dataframe to (code, disease) format
+standardise <- function(df, code_col, disease_label) {
+  df %>%
+    transmute(
+      code = as.character({{ code_col }}),
+      disease = disease_label
+    ) %>%
+    filter(!is.na(code), code != "")
+}
 
 # ==============================================================================
-# STEP 2: STANDARDIZE ALL CODE LISTS TO SAME FORMAT
+# LOAD AND CLEAN EACH CODELIST
 # ==============================================================================
-# ------------------------------------------------------------------------------
-# GROUP 1: Already good format - just select needed columns
-# ------------------------------------------------------------------------------
-asthma_clean <- asthma_codes %>%
-  select(code, disease = phenotype_name) %>%
-  mutate(disease = "Asthma",
-         code = as.character(code))
 
-cancer_clean <- cancer_codes %>%
-  select(code, disease = phenotype_name) %>%
-  mutate(disease = "Cancer",
-         code = as.character(code))
-
-copd_clean <- copd_codes %>%
-  select(code, disease = phenotype_name) %>%
-  mutate(disease = "COPD",
-         code = as.character(code))
-
-depression_clean <- depression_codes %>%
-  select(code, disease = phenotype_name) %>%
-  mutate(disease = "Depression",
-         code = as.character(code))
-
-htn_clean <- htn_codes %>%
-  select(code, disease = phenotype_name) %>%
-  mutate(disease = "Hypertension",
-         code = as.character(code))
-
-obesity_clean <- obesity_codes %>%
-  select(code, disease = phenotype_name) %>%
-  mutate(disease = "Obesity",
-         code = as.character(code))
-
-#mpc_clean <- mpc_codes %>%
-# mutate(
-#  code = as.character(SnomedCTConceptId),
-# disease = "Myocarditis/Pericarditis"
-#) %>%
-#select(code, disease) %>%
-#filter(!is.na(code), code != "")
-
-# ------------------------------------------------------------------------------
-# GROUP 2: Simple format - just rename columns
-# ------------------------------------------------------------------------------
-
-t1dm_clean <- t1dm_codes %>%
-  select(code, term) %>%
-  mutate(disease = "Type 1 Diabetes",
-         code = as.character(code)) %>%
-  select(code, disease)
-
-t2dm_clean <- t2dm_codes %>%
-  select(code, term) %>%
-  mutate(disease = "Type 2 Diabetes",
-         code = as.character(code)) %>%
-  select(code, disease)
-
-
-congenital_clean <- congenital_codes %>%
-  select(code, term) %>%
-  mutate(disease = "Congenital Heart Disease",
-         code = as.character(code)) %>%
-  select(code, disease)
-
-smoking_clean <- smoking_codes %>%
-  select(code = snomedctconceptid, term, smoking_status) %>%  # Keep smoking_status!
-  mutate(
-    code = as.character(code),
-    # Create disease name with category
-    disease = case_when(
-      smoking_status == "Current smoker" ~ "Current Smoker",
-      smoking_status == "Ex-smoker" ~ "Ex-smoker",
-      smoking_status == "Never smoker" ~ "Never Smoker",
-      TRUE ~ "Smoking - Unknown"  # Catch any unexpected categories
-    )
-  ) %>%
-  select(code, disease)
-
-
-# ------------------------------------------------------------------------------
-# GROUP 4: NEW Complex CSV files with MedCodeId - need to remove "#" symbols
-# ------------------------------------------------------------------------------
-mi_clean <- mi_codes %>%
-  mutate(
-    code = as.character(snomedcode),
-    code = gsub("#", "", code),  # Remove the "#" symbols
-    disease = "Myocardial Infarction"
-  ) %>%
-  select(code, disease)
-
-ihd_clean <- ihd_codes %>%
-  mutate(
-    code = as.character(snomedcode),
-    code = gsub("#", "", code),  # Remove the "#" symbols
-    disease = "Ischaemic Heart Disease"
-  ) %>%
-  select(code, disease)
-
-hf_clean <- hf_codes %>%
-  mutate(
-    code = as.character(snomedcode),
-    code = gsub("#", "", code),  # Remove the "#" symbols
-    disease = "Heart Failure"
-  ) %>%
-  select(code, disease)
-
-af_clean <- af_codes %>%
-  mutate(
-    code = as.character(snomedcode),
-    code = gsub("#", "", code),  # Remove the "#" symbols
-    disease = "Atrial Fibrillation"
-  ) %>%
-  select(code, disease)
-
-rheumatoid_clean <- rheumatoid_codes %>%
-  mutate(
-    code = as.character(snomedcode),
-    code = gsub("#", "", code),  # Remove the "#" symbols
-    disease = "Rheumatoid Arthritis"
-  ) %>%
-  select(code, disease)
-
-# ------------------------------------------------------------------------------
-# COMBINE ALL CODE LISTS
-# ------------------------------------------------------------------------------
-
-all_comorbidity_codes <- bind_rows(
-  # Original comorbidities
-  asthma_clean,
-  cancer_clean,
-  copd_clean,
-  depression_clean,
-  htn_clean,
-  obesity_clean,
-  t1dm_clean,
-  t2dm_clean,
-  ckd_clean,
-  semi_clean,
-  congenital_clean,
-  smoking_clean,
-  rheumatoid_clean,
-  mi_clean,
-  ihd_clean,
-  hf_clean,
-  af_clean,
-  #mpc_clean
+# --- Phenotype library format (column: code = SNOMED) ---
+phenotype_files <- list(
+  "Asthma"       = "asthma.csv",
+  "Cancer"       = "cancer.csv",
+  "COPD"         = "copd.csv",
+  "Hypertension" = "htn.csv",
+  "Obesity"      = "obesity.csv"
 )
 
-# Remove any duplicates (same code appearing in multiple disease lists)
-all_comorbidity_codes <- all_comorbidity_codes %>%
-  distinct(code, disease, .keep_all = TRUE)
-# Summary
-print(paste("Total codes:", nrow(all_comorbidity_codes)))
-disease_summary <- all_comorbidity_codes %>% 
-  count(disease) %>% 
-  arrange(desc(n))
-print(disease_summary)
+phenotype_codes <- map_dfr(names(phenotype_files), function(d) {
+  read.csv(file.path(codelist_dir, phenotype_files[[d]]),
+           stringsAsFactors = FALSE) %>%
+    standardise(code, d)
+})
 
-# Check for any missing or invalid codes
-print("\nChecking for issues:")
-print(paste("Codes with NA:", sum(is.na(all_comorbidity_codes$code))))
-print(paste("Empty codes:", sum(all_comorbidity_codes$code == "")))
+# --- Simple format (columns: code, term) ---
+simple_files <- list(
+  "Type 1 Diabetes"         = "t1dm.csv",
+  "Type 2 Diabetes"         = "t2dm.csv",
+  "Congenital Heart Disease" = "congenital.csv"
+)
 
+simple_codes <- map_dfr(names(simple_files), function(d) {
+  read.csv(file.path(codelist_dir, simple_files[[d]]),
+           stringsAsFactors = FALSE) %>%
+    standardise(code, d)
+})
 
-# ------------------------------------------------------------------------------
-# SAVE THE FINAL COMBINED CODE LIST
-# ------------------------------------------------------------------------------
+# --- snomedcode format (with # symbols to remove) ---
+snomed_hash_files <- list(
+  "Myocardial Infarction"   = "mi.csv",
+  "Ischaemic Heart Disease" = "ihd.csv",
+  "Heart Failure"           = "hf.csv",
+  "Atrial Fibrillation"     = "atrialfibrillation.csv",
+  "Rheumatoid Arthritis"    = "rheumatoid.csv"
+)
 
-write.csv(all_comorbidity_codes, 
-          "./comorbidities/code_lists/all_comorbidity_codes.csv", 
+snomed_hash_codes <- map_dfr(names(snomed_hash_files), function(d) {
+  read.csv(file.path(codelist_dir, snomed_hash_files[[d]]),
+           stringsAsFactors = FALSE) %>%
+    mutate(snomedcode = gsub("#", "", as.character(snomedcode))) %>%
+    standardise(snomedcode, d)
+})
+
+# --- CKD (tab-separated, uses snomedctconceptid) ---
+ckd_codes <- read.table(file.path(codelist_dir, "ckd.txt"),
+                        header = TRUE, sep = "\t",
+                        stringsAsFactors = FALSE) %>%
+  standardise(snomedctconceptid, "Chronic Kidney Disease")
+
+# --- Smoking (split by smoking_status) ---
+smoking_codes <- read.csv(file.path(codelist_dir, "smoking.csv"),
+                          stringsAsFactors = FALSE) %>%
+  transmute(
+    code = as.character(snomedctconceptid),
+    disease = case_when(
+      smoking_status == "Current smoker" ~ "Current Smoker",
+      smoking_status == "Ex-smoker"      ~ "Ex-smoker",
+      smoking_status == "Never smoker"   ~ "Never Smoker",
+      TRUE                               ~ "Smoking - Unknown"
+    )
+  ) %>%
+  filter(!is.na(code), code != "")
+
+# --- CPRD Aurum format (medcodeid + snomedctconceptid) ---
+anxiety_codes <- read.csv(file.path(codelist_dir, "anxiety.csv"),
+                          stringsAsFactors = FALSE) %>%
+  standardise(snomedctconceptid, "Anxiety")
+
+depression_codes <- read.csv(file.path(codelist_dir, "depression.csv"),
+                             stringsAsFactors = FALSE) %>%
+  standardise(snomedctconceptid, "Depression")
+
+# ==============================================================================
+# COMBINE AND DEDUPLICATE
+# ==============================================================================
+
+all_comorbidity_codes <- bind_rows(
+  phenotype_codes,
+  simple_codes,
+  snomed_hash_codes,
+  ckd_codes,
+  smoking_codes,
+  anxiety_codes,
+  depression_codes
+) %>%
+  distinct(code, disease)
+
+# ==============================================================================
+# SUMMARY
+# ==============================================================================
+
+cat("Total codes:", nrow(all_comorbidity_codes), "\n\n")
+
+all_comorbidity_codes %>%
+  count(disease) %>%
+  arrange(desc(n)) %>%
+  print()
+
+cat("\nCodes with NA:", sum(is.na(all_comorbidity_codes$code)),
+    "\nEmpty codes:",  sum(all_comorbidity_codes$code == ""), "\n")
+
+# ==============================================================================
+# SAVE
+# ==============================================================================
+
+write.csv(all_comorbidity_codes,
+          file.path(codelist_dir, "all_comorbidity_codes.csv"),
           row.names = FALSE)

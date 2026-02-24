@@ -1,0 +1,294 @@
+code,coding_system,description,entity,list_name,upload_date
+1BH..00,Read,Delusions,diagnostic,929 - res178: Psychosis,2021-03-14
+1BH0.00,Read,Delusion of persecution,diagnostic,929 - res178: Psychosis,2021-03-14
+1BH1.00,Read,Grandiose delusions,diagnostic,929 - res178: Psychosis,2021-03-14
+1BH..11,Read,Delusion,diagnostic,929 - res178: Psychosis,2021-03-14
+1BH2.00,Read,Ideas of reference,diagnostic,929 - res178: Psychosis,2021-03-14
+1BH3.00,Read,Paranoid ideation,diagnostic,929 - res178: Psychosis,2021-03-14
+E001100,Read,Presenile dementia with delirium,diagnostic,929 - res178: Psychosis,2021-03-14
+E001200,Read,Presenile dementia with paranoia,diagnostic,929 - res178: Psychosis,2021-03-14
+E002000,Read,Senile dementia with paranoia,diagnostic,929 - res178: Psychosis,2021-03-14
+E002z00,Read,Senile dementia with depressive or paranoid features NOS,diagnostic,929 - res178: Psychosis,2021-03-14
+E003.00,Read,Senile dementia with delirium,diagnostic,929 - res178: Psychosis,2021-03-14
+E004100,Read,Arteriosclerotic dementia with delirium,diagnostic,929 - res178: Psychosis,2021-03-14
+E004200,Read,Arteriosclerotic dementia with paranoia,diagnostic,929 - res178: Psychosis,2021-03-14
+E00y.00,Read,Other senile and presenile organic psychoses,diagnostic,929 - res178: Psychosis,2021-03-14
+E00y.11,Read,Presbyophrenic psychosis,diagnostic,929 - res178: Psychosis,2021-03-14
+E00z.00,Read,Senile or presenile psychoses NOS,diagnostic,929 - res178: Psychosis,2021-03-14
+E010.00,Read,Alcohol withdrawal delirium,diagnostic,929 - res178: Psychosis,2021-03-14
+E010.11,Read,DTs - delirium tremens,diagnostic,929 - res178: Psychosis,2021-03-14
+E010.12,Read,Delirium tremens,diagnostic,929 - res178: Psychosis,2021-03-14
+E011000,Read,Korsakov's alcoholic psychosis,diagnostic,929 - res178: Psychosis,2021-03-14
+E013.00,Read,Alcohol withdrawal hallucinosis,diagnostic,929 - res178: Psychosis,2021-03-14
+E015.00,Read,Alcoholic paranoia,diagnostic,929 - res178: Psychosis,2021-03-14
+E01yz00,Read,Other alcoholic psychosis NOS,diagnostic,929 - res178: Psychosis,2021-03-14
+E01z.00,Read,Alcoholic psychosis NOS,diagnostic,929 - res178: Psychosis,2021-03-14
+E021.00,Read,Drug-induced paranoia or hallucinatory states,diagnostic,929 - res178: Psychosis,2021-03-14
+E021000,Read,Drug-induced paranoid state,diagnostic,929 - res178: Psychosis,2021-03-14
+E021100,Read,Drug-induced hallucinosis,diagnostic,929 - res178: Psychosis,2021-03-14
+E021z00,Read,Drug-induced paranoia or hallucinatory state NOS,diagnostic,929 - res178: Psychosis,2021-03-14
+E02y000,Read,Drug-induced delirium,diagnostic,929 - res178: Psychosis,2021-03-14
+E02yz00,Read,Other drug psychoses NOS,diagnostic,929 - res178: Psychosis,2021-03-14
+E02z.00,Read,Drug psychosis NOS,diagnostic,929 - res178: Psychosis,2021-03-14
+E03..00,Read,Transient organic psychoses,diagnostic,929 - res178: Psychosis,2021-03-14
+E030.00,Read,Acute confusional state,diagnostic,929 - res178: Psychosis,2021-03-14
+E030000,Read,Acute confusional state; post traumatic,diagnostic,929 - res178: Psychosis,2021-03-14
+E030100,Read,Acute confusional state; of infective origin,diagnostic,929 - res178: Psychosis,2021-03-14
+E030.11,Read,Delirium - acute organic,diagnostic,929 - res178: Psychosis,2021-03-14
+E030.12,Read,Toxic confusional state,diagnostic,929 - res178: Psychosis,2021-03-14
+E030200,Read,Acute confusional state; of endocrine origin,diagnostic,929 - res178: Psychosis,2021-03-14
+E030300,Read,Acute confusional state; of metabolic origin,diagnostic,929 - res178: Psychosis,2021-03-14
+E030400,Read,Acute confusional state; of cerebrovascular origin,diagnostic,929 - res178: Psychosis,2021-03-14
+E030z00,Read,Acute confusional state NOS,diagnostic,929 - res178: Psychosis,2021-03-14
+E031.00,Read,Subacute confusional state,diagnostic,929 - res178: Psychosis,2021-03-14
+E031000,Read,Subacute confusional state; post traumatic,diagnostic,929 - res178: Psychosis,2021-03-14
+E031100,Read,Subacute confusional state; of infective origin,diagnostic,929 - res178: Psychosis,2021-03-14
+E031.11,Read,Delirium - subacute organic,diagnostic,929 - res178: Psychosis,2021-03-14
+E031300,Read,Subacute confusional state; of metabolic origin,diagnostic,929 - res178: Psychosis,2021-03-14
+E031400,Read,Subacute confusional state; of cerebrovascular origin,diagnostic,929 - res178: Psychosis,2021-03-14
+E031z00,Read,Subacute confusional state NOS,diagnostic,929 - res178: Psychosis,2021-03-14
+E03y.00,Read,Other transient organic psychoses,diagnostic,929 - res178: Psychosis,2021-03-14
+E03y000,Read,Organic delusional syndrome,diagnostic,929 - res178: Psychosis,2021-03-14
+E03y100,Read,Organic hallucinosis syndrome,diagnostic,929 - res178: Psychosis,2021-03-14
+E03y200,Read,Organic affective syndrome,diagnostic,929 - res178: Psychosis,2021-03-14
+E03y300,Read,Unspecified puerperal psychosis,diagnostic,929 - res178: Psychosis,2021-03-14
+E03yz00,Read,Other transient organic psychoses NOS,diagnostic,929 - res178: Psychosis,2021-03-14
+E03z.00,Read,Transient organic psychoses NOS,diagnostic,929 - res178: Psychosis,2021-03-14
+E04..00,Read,Other chronic organic psychoses,diagnostic,929 - res178: Psychosis,2021-03-14
+E04y.00,Read,Other specified chronic organic psychoses,diagnostic,929 - res178: Psychosis,2021-03-14
+E04z.00,Read,Chronic organic psychosis NOS,diagnostic,929 - res178: Psychosis,2021-03-14
+E0y..00,Read,Other specified organic psychoses,diagnostic,929 - res178: Psychosis,2021-03-14
+E0z..00,Read,Organic psychoses NOS,diagnostic,929 - res178: Psychosis,2021-03-14
+E10..00,Read,Schizophrenic disorders,diagnostic,929 - res178: Psychosis,2021-03-14
+E100.00,Read,Simple schizophrenia,diagnostic,929 - res178: Psychosis,2021-03-14
+E100000,Read,Unspecified schizophrenia,diagnostic,929 - res178: Psychosis,2021-03-14
+E100100,Read,Subchronic schizophrenia,diagnostic,929 - res178: Psychosis,2021-03-14
+E100.11,Read,Schizophrenia simplex,diagnostic,929 - res178: Psychosis,2021-03-14
+E100200,Read,Chronic schizophrenic,diagnostic,929 - res178: Psychosis,2021-03-14
+E100300,Read,Acute exacerbation of subchronic schizophrenia,diagnostic,929 - res178: Psychosis,2021-03-14
+E100400,Read,Acute exacerbation of chronic schizophrenia,diagnostic,929 - res178: Psychosis,2021-03-14
+E100500,Read,Schizophrenia in remission,diagnostic,929 - res178: Psychosis,2021-03-14
+E100z00,Read,Simple schizophrenia NOS,diagnostic,929 - res178: Psychosis,2021-03-14
+E101.00,Read,Hebephrenic schizophrenia,diagnostic,929 - res178: Psychosis,2021-03-14
+E101000,Read,Unspecified hebephrenic schizophrenia,diagnostic,929 - res178: Psychosis,2021-03-14
+E101400,Read,Acute exacerbation of chronic hebephrenic schizophrenia,diagnostic,929 - res178: Psychosis,2021-03-14
+E101500,Read,Hebephrenic schizophrenia in remission,diagnostic,929 - res178: Psychosis,2021-03-14
+E101z00,Read,Hebephrenic schizophrenia NOS,diagnostic,929 - res178: Psychosis,2021-03-14
+E102.00,Read,Catatonic schizophrenia,diagnostic,929 - res178: Psychosis,2021-03-14
+E102000,Read,Unspecified catatonic schizophrenia,diagnostic,929 - res178: Psychosis,2021-03-14
+E102100,Read,Subchronic catatonic schizophrenia,diagnostic,929 - res178: Psychosis,2021-03-14
+E102500,Read,Catatonic schizophrenia in remission,diagnostic,929 - res178: Psychosis,2021-03-14
+E102z00,Read,Catatonic schizophrenia NOS,diagnostic,929 - res178: Psychosis,2021-03-14
+E103.00,Read,Paranoid schizophrenia,diagnostic,929 - res178: Psychosis,2021-03-14
+E103000,Read,Unspecified paranoid schizophrenia,diagnostic,929 - res178: Psychosis,2021-03-14
+E103200,Read,Chronic paranoid schizophrenia,diagnostic,929 - res178: Psychosis,2021-03-14
+E103300,Read,Acute exacerbation of subchronic paranoid schizophrenia,diagnostic,929 - res178: Psychosis,2021-03-14
+E103400,Read,Acute exacerbation of chronic paranoid schizophrenia,diagnostic,929 - res178: Psychosis,2021-03-14
+E103500,Read,Paranoid schizophrenia in remission,diagnostic,929 - res178: Psychosis,2021-03-14
+E103z00,Read,Paranoid schizophrenia NOS,diagnostic,929 - res178: Psychosis,2021-03-14
+E104.00,Read,Acute schizophrenic episode,diagnostic,929 - res178: Psychosis,2021-03-14
+E104.11,Read,Oneirophrenia,diagnostic,929 - res178: Psychosis,2021-03-14
+E105.00,Read,Latent schizophrenia,diagnostic,929 - res178: Psychosis,2021-03-14
+E105000,Read,Unspecified latent schizophrenia,diagnostic,929 - res178: Psychosis,2021-03-14
+E105200,Read,Chronic latent schizophrenia,diagnostic,929 - res178: Psychosis,2021-03-14
+E105500,Read,Latent schizophrenia in remission,diagnostic,929 - res178: Psychosis,2021-03-14
+E105z00,Read,Latent schizophrenia NOS,diagnostic,929 - res178: Psychosis,2021-03-14
+E106.00,Read,Residual schizophrenia,diagnostic,929 - res178: Psychosis,2021-03-14
+E107.00,Read,Schizo-affective schizophrenia,diagnostic,929 - res178: Psychosis,2021-03-14
+E107000,Read,Unspecified schizo-affective schizophrenia,diagnostic,929 - res178: Psychosis,2021-03-14
+E107100,Read,Subchronic schizo-affective schizophrenia,diagnostic,929 - res178: Psychosis,2021-03-14
+E107.11,Read,Cyclic schizophrenia,diagnostic,929 - res178: Psychosis,2021-03-14
+E107200,Read,Chronic schizo-affective schizophrenia,diagnostic,929 - res178: Psychosis,2021-03-14
+E107300,Read,Acute exacerbation subchronic schizo-affective schizophrenia,diagnostic,929 - res178: Psychosis,2021-03-14
+E107400,Read,Acute exacerbation of chronic schizo-affective schizophrenia,diagnostic,929 - res178: Psychosis,2021-03-14
+E107500,Read,Schizo-affective schizophrenia in remission,diagnostic,929 - res178: Psychosis,2021-03-14
+E107z00,Read,Schizo-affective schizophrenia NOS,diagnostic,929 - res178: Psychosis,2021-03-14
+E10y.00,Read,Other schizophrenia,diagnostic,929 - res178: Psychosis,2021-03-14
+E10y000,Read,Atypical schizophrenia,diagnostic,929 - res178: Psychosis,2021-03-14
+E10y100,Read,Coenesthopathic schizophrenia,diagnostic,929 - res178: Psychosis,2021-03-14
+E10y.11,Read,Cenesthopathic schizophrenia,diagnostic,929 - res178: Psychosis,2021-03-14
+E10yz00,Read,Other schizophrenia NOS,diagnostic,929 - res178: Psychosis,2021-03-14
+E10z.00,Read,Schizophrenia NOS,diagnostic,929 - res178: Psychosis,2021-03-14
+E110.00,Read,Manic disorder; single episode,diagnostic,929 - res178: Psychosis,2021-03-14
+E110000,Read,Single manic episode; unspecified,diagnostic,929 - res178: Psychosis,2021-03-14
+E110100,Read,Single manic episode; mild,diagnostic,929 - res178: Psychosis,2021-03-14
+E110.11,Read,Hypomanic psychoses,diagnostic,929 - res178: Psychosis,2021-03-14
+E110200,Read,Single manic episode; moderate,diagnostic,929 - res178: Psychosis,2021-03-14
+E110300,Read,Single manic episode; severe without mention of psychosis,diagnostic,929 - res178: Psychosis,2021-03-14
+E110400,Read,Single manic episode; severe; with psychosis,diagnostic,929 - res178: Psychosis,2021-03-14
+E110600,Read,Single manic episode in full remission,diagnostic,929 - res178: Psychosis,2021-03-14
+E110z00,Read,Manic disorder; single episode NOS,diagnostic,929 - res178: Psychosis,2021-03-14
+E111.00,Read,Recurrent manic episodes,diagnostic,929 - res178: Psychosis,2021-03-14
+E111000,Read,Recurrent manic episodes; unspecified,diagnostic,929 - res178: Psychosis,2021-03-14
+E111100,Read,Recurrent manic episodes; mild,diagnostic,929 - res178: Psychosis,2021-03-14
+E111200,Read,Recurrent manic episodes; moderate,diagnostic,929 - res178: Psychosis,2021-03-14
+E111300,Read,Recurrent manic episodes; severe without mention psychosis,diagnostic,929 - res178: Psychosis,2021-03-14
+E111400,Read,Recurrent manic episodes; severe; with psychosis,diagnostic,929 - res178: Psychosis,2021-03-14
+E111500,Read,Recurrent manic episodes; partial or unspecified remission,diagnostic,929 - res178: Psychosis,2021-03-14
+E111600,Read,Recurrent manic episodes; in full remission,diagnostic,929 - res178: Psychosis,2021-03-14
+E111z00,Read,Recurrent manic episode NOS,diagnostic,929 - res178: Psychosis,2021-03-14
+E112400,Read,Single major depressive episode; severe; with psychosis,diagnostic,929 - res178: Psychosis,2021-03-14
+E113400,Read,Recurrent major depressive episodes; severe; with psychosis,diagnostic,929 - res178: Psychosis,2021-03-14
+E114.00,Read,Bipolar affective disorder; currently manic,diagnostic,929 - res178: Psychosis,2021-03-14
+E114000,Read,Bipolar affective disorder; currently manic; unspecified,diagnostic,929 - res178: Psychosis,2021-03-14
+E114100,Read,Bipolar affective disorder; currently manic; mild,diagnostic,929 - res178: Psychosis,2021-03-14
+E114.11,Read,Manic-depressive - now manic,diagnostic,929 - res178: Psychosis,2021-03-14
+E114200,Read,Bipolar affective disorder; currently manic; moderate,diagnostic,929 - res178: Psychosis,2021-03-14
+E114300,Read,Bipolar affect disord; currently manic; severe; no psychosis,diagnostic,929 - res178: Psychosis,2021-03-14
+E114400,Read,Bipolar affect disord; currently manic;severe with psychosis,diagnostic,929 - res178: Psychosis,2021-03-14
+E114500,Read,Bipolar affect disord;currently manic; part/unspec remission,diagnostic,929 - res178: Psychosis,2021-03-14
+E114600,Read,Bipolar affective disorder; currently manic; full remission,diagnostic,929 - res178: Psychosis,2021-03-14
+E114z00,Read,Bipolar affective disorder; currently manic; NOS,diagnostic,929 - res178: Psychosis,2021-03-14
+E115.00,Read,Bipolar affective disorder; currently depressed,diagnostic,929 - res178: Psychosis,2021-03-14
+E115000,Read,Bipolar affective disorder; currently depressed; unspecified,diagnostic,929 - res178: Psychosis,2021-03-14
+E115100,Read,Bipolar affective disorder; currently depressed; mild,diagnostic,929 - res178: Psychosis,2021-03-14
+E115.11,Read,Manic-depressive - now depressed,diagnostic,929 - res178: Psychosis,2021-03-14
+E115200,Read,Bipolar affective disorder; currently depressed; moderate,diagnostic,929 - res178: Psychosis,2021-03-14
+E115300,Read,Bipolar affect disord; now depressed; severe; no psychosis,diagnostic,929 - res178: Psychosis,2021-03-14
+E115400,Read,Bipolar affect disord; now depressed; severe with psychosis,diagnostic,929 - res178: Psychosis,2021-03-14
+E115500,Read,Bipolar affect disord; now depressed; part/unspec remission,diagnostic,929 - res178: Psychosis,2021-03-14
+E115600,Read,Bipolar affective disorder; now depressed; in full remission,diagnostic,929 - res178: Psychosis,2021-03-14
+E115z00,Read,Bipolar affective disorder; currently depressed; NOS,diagnostic,929 - res178: Psychosis,2021-03-14
+E116.00,Read,Mixed bipolar affective disorder,diagnostic,929 - res178: Psychosis,2021-03-14
+E116000,Read,Mixed bipolar affective disorder; unspecified,diagnostic,929 - res178: Psychosis,2021-03-14
+E116100,Read,Mixed bipolar affective disorder; mild,diagnostic,929 - res178: Psychosis,2021-03-14
+E116200,Read,Mixed bipolar affective disorder; moderate,diagnostic,929 - res178: Psychosis,2021-03-14
+E116300,Read,Mixed bipolar affective disorder; severe; without psychosis,diagnostic,929 - res178: Psychosis,2021-03-14
+E116400,Read,Mixed bipolar affective disorder; severe; with psychosis,diagnostic,929 - res178: Psychosis,2021-03-14
+E116500,Read,Mixed bipolar affective disorder; partial/unspec remission,diagnostic,929 - res178: Psychosis,2021-03-14
+E116600,Read,Mixed bipolar affective disorder; in full remission,diagnostic,929 - res178: Psychosis,2021-03-14
+E116z00,Read,Mixed bipolar affective disorder; NOS,diagnostic,929 - res178: Psychosis,2021-03-14
+E117.00,Read,Unspecified bipolar affective disorder,diagnostic,929 - res178: Psychosis,2021-03-14
+E117000,Read,Unspecified bipolar affective disorder; unspecified,diagnostic,929 - res178: Psychosis,2021-03-14
+E117100,Read,Unspecified bipolar affective disorder; mild,diagnostic,929 - res178: Psychosis,2021-03-14
+E117200,Read,Unspecified bipolar affective disorder; moderate,diagnostic,929 - res178: Psychosis,2021-03-14
+E117300,Read,Unspecified bipolar affective disorder; severe; no psychosis,diagnostic,929 - res178: Psychosis,2021-03-14
+E117400,Read,Unspecified bipolar affective disorder;severe with psychosis,diagnostic,929 - res178: Psychosis,2021-03-14
+E117500,Read,Unspecified bipolar affect disord; partial/unspec remission,diagnostic,929 - res178: Psychosis,2021-03-14
+E117600,Read,Unspecified bipolar affective disorder; in full remission,diagnostic,929 - res178: Psychosis,2021-03-14
+E117z00,Read,Unspecified bipolar affective disorder; NOS,diagnostic,929 - res178: Psychosis,2021-03-14
+E11y.00,Read,Other and unspecified manic-depressive psychoses,diagnostic,929 - res178: Psychosis,2021-03-14
+E11y000,Read,Unspecified manic-depressive psychoses,diagnostic,929 - res178: Psychosis,2021-03-14
+E11y100,Read,Atypical manic disorder,diagnostic,929 - res178: Psychosis,2021-03-14
+E11y200,Read,Atypical depressive disorder,diagnostic,929 - res178: Psychosis,2021-03-14
+E11y300,Read,Other mixed manic-depressive psychoses,diagnostic,929 - res178: Psychosis,2021-03-14
+E11yz00,Read,Other and unspecified manic-depressive psychoses NOS,diagnostic,929 - res178: Psychosis,2021-03-14
+E11z.00,Read,Other and unspecified affective psychoses,diagnostic,929 - res178: Psychosis,2021-03-14
+E11z000,Read,Unspecified affective psychoses NOS,diagnostic,929 - res178: Psychosis,2021-03-14
+E11zz00,Read,Other affective psychosis NOS,diagnostic,929 - res178: Psychosis,2021-03-14
+E12..00,Read,Paranoid states,diagnostic,929 - res178: Psychosis,2021-03-14
+E120.00,Read,Simple paranoid state,diagnostic,929 - res178: Psychosis,2021-03-14
+E121.00,Read,Chronic paranoid psychosis,diagnostic,929 - res178: Psychosis,2021-03-14
+E122.00,Read,Paraphrenia,diagnostic,929 - res178: Psychosis,2021-03-14
+E123.00,Read,Shared paranoid disorder,diagnostic,929 - res178: Psychosis,2021-03-14
+E123.11,Read,Folie a deux,diagnostic,929 - res178: Psychosis,2021-03-14
+E12y.00,Read,Other paranoid states,diagnostic,929 - res178: Psychosis,2021-03-14
+E12y000,Read,Paranoia querulans,diagnostic,929 - res178: Psychosis,2021-03-14
+E12yz00,Read,Other paranoid states NOS,diagnostic,929 - res178: Psychosis,2021-03-14
+E12z.00,Read,Paranoid psychosis NOS,diagnostic,929 - res178: Psychosis,2021-03-14
+E13..00,Read,Other nonorganic psychoses,diagnostic,929 - res178: Psychosis,2021-03-14
+E130.00,Read,Reactive depressive psychosis,diagnostic,929 - res178: Psychosis,2021-03-14
+E130.11,Read,Psychotic reactive depression,diagnostic,929 - res178: Psychosis,2021-03-14
+E131.00,Read,Acute hysterical psychosis,diagnostic,929 - res178: Psychosis,2021-03-14
+E133.00,Read,Acute paranoid reaction,diagnostic,929 - res178: Psychosis,2021-03-14
+E134.00,Read,Psychogenic paranoid psychosis,diagnostic,929 - res178: Psychosis,2021-03-14
+E13y.00,Read,Other reactive psychoses,diagnostic,929 - res178: Psychosis,2021-03-14
+E13y000,Read,Psychogenic stupor,diagnostic,929 - res178: Psychosis,2021-03-14
+E13y100,Read,Brief reactive psychosis,diagnostic,929 - res178: Psychosis,2021-03-14
+E13yz00,Read,Other reactive psychoses NOS,diagnostic,929 - res178: Psychosis,2021-03-14
+E141.00,Read,Disintegrative psychosis,diagnostic,929 - res178: Psychosis,2021-03-14
+E141100,Read,Residual disintegrative psychoses,diagnostic,929 - res178: Psychosis,2021-03-14
+E141.11,Read,Heller's syndrome,diagnostic,929 - res178: Psychosis,2021-03-14
+E14y.00,Read,Other childhood psychoses,diagnostic,929 - res178: Psychosis,2021-03-14
+E14y000,Read,Atypical childhood psychoses,diagnostic,929 - res178: Psychosis,2021-03-14
+E14y100,Read,Borderline psychosis of childhood,diagnostic,929 - res178: Psychosis,2021-03-14
+E14yz00,Read,Other childhood psychoses NOS,diagnostic,929 - res178: Psychosis,2021-03-14
+E14z.00,Read,Child psychosis NOS,diagnostic,929 - res178: Psychosis,2021-03-14
+E14z.11,Read,Childhood schizophrenia NOS,diagnostic,929 - res178: Psychosis,2021-03-14
+E1y..00,Read,Other specified non-organic psychoses,diagnostic,929 - res178: Psychosis,2021-03-14
+E1z..00,Read,Non-organic psychosis NOS,diagnostic,929 - res178: Psychosis,2021-03-14
+Eu04.00,Read,[X]Delirium; not induced by alcohol+other psychoactive subs,diagnostic,929 - res178: Psychosis,2021-03-14
+Eu04000,Read,[X]Delirium not superimposed on dementia; so described,diagnostic,929 - res178: Psychosis,2021-03-14
+Eu04100,Read,[X]Delirium superimposed on dementia,diagnostic,929 - res178: Psychosis,2021-03-14
+Eu04.11,Read,[X]Acute / subacute brain syndrome,diagnostic,929 - res178: Psychosis,2021-03-14
+Eu04.12,Read,[X]Acute / subacute confusional state; nonalcoholic,diagnostic,929 - res178: Psychosis,2021-03-14
+Eu04.13,Read,[X]Acute / subacute infective psychosis,diagnostic,929 - res178: Psychosis,2021-03-14
+Eu04.14,Read,[X]Acute / subacute organic reaction,diagnostic,929 - res178: Psychosis,2021-03-14
+Eu04.15,Read,[X]Acute / subacute psycho-organic reaction,diagnostic,929 - res178: Psychosis,2021-03-14
+Eu04y00,Read,[X]Other delirium,diagnostic,929 - res178: Psychosis,2021-03-14
+Eu04z00,Read,[X]Delirium; unspecified,diagnostic,929 - res178: Psychosis,2021-03-14
+Eu05000,Read,[X]Organic hallucinosis,diagnostic,929 - res178: Psychosis,2021-03-14
+Eu05200,Read,[X]Organic delusional [schizophrenia-like] disorder,diagnostic,929 - res178: Psychosis,2021-03-14
+Eu10400,Read,[X]Men & behav dis due alcohl: withdrawl state with delirium,diagnostic,929 - res178: Psychosis,2021-03-14
+Eu10411,Read,[X]Delirium tremens; alcohol induced,diagnostic,929 - res178: Psychosis,2021-03-14
+Eu10500,Read,[X]Mental & behav dis due to use alcohol: psychotic disorder,diagnostic,929 - res178: Psychosis,2021-03-14
+Eu10511,Read,[X]Alcoholic hallucinosis,diagnostic,929 - res178: Psychosis,2021-03-14
+Eu10512,Read,[X]Alcoholic jealousy,diagnostic,929 - res178: Psychosis,2021-03-14
+Eu10513,Read,[X]Alcoholic paranoia,diagnostic,929 - res178: Psychosis,2021-03-14
+Eu10514,Read,[X]Alcoholic psychosis NOS,diagnostic,929 - res178: Psychosis,2021-03-14
+Eu10700,Read,[X]Men & behav dis due alcoh: resid & late-onset psychot dis,diagnostic,929 - res178: Psychosis,2021-03-14
+Eu11400,Read,[X]Men & behav dis due opioid: withdrawl state with delirium,diagnostic,929 - res178: Psychosis,2021-03-14
+Eu11500,Read,[X]Mental & behav dis due to use opioids: psychotic disorder,diagnostic,929 - res178: Psychosis,2021-03-14
+Eu11700,Read,[X]Men & beh dis due opioids: resid & late-onset psychot dis,diagnostic,929 - res178: Psychosis,2021-03-14
+Eu12500,Read,[X]Mental & behav dis due to cannabinoids: psychotic disordr,diagnostic,929 - res178: Psychosis,2021-03-14
+Eu12700,Read,[X]Mnt/bh dis due cannabinds: resid & late-onset psychot dis,diagnostic,929 - res178: Psychosis,2021-03-14
+Eu13400,Read,[X]Men & beh dis due seds/hypns: withdrwl state wth delirium,diagnostic,929 - res178: Psychosis,2021-03-14
+Eu13500,Read,[X]Mental & behav dis due to seds/hypntcs: psychotic disordr,diagnostic,929 - res178: Psychosis,2021-03-14
+Eu14500,Read,[X]Mental & behav dis due to use cocaine: psychotic disorder,diagnostic,929 - res178: Psychosis,2021-03-14
+Eu14700,Read,[X]Men & beh dis due cocaine: resid & late-onset psychot dis,diagnostic,929 - res178: Psychosis,2021-03-14
+Eu15500,Read,[X]Mental/behav dis oth stims inc caffeine: psychotic dis,diagnostic,929 - res178: Psychosis,2021-03-14
+Eu15700,Read,[X]Mnt/bh dis oth stm inc caffne resid/late-onset psycht dis,diagnostic,929 - res178: Psychosis,2021-03-14
+Eu16500,Read,[X]Mental & behav dis due to hallucinogens: psychotic disord,diagnostic,929 - res178: Psychosis,2021-03-14
+Eu16711,Read,[X]Post hallucinogen perception disorder,diagnostic,929 - res178: Psychosis,2021-03-14
+Eu18400,Read,[X]Men & beh dis vol solvents: withdrawal state wth delirium,diagnostic,929 - res178: Psychosis,2021-03-14
+Eu18500,Read,[X]Mental & behav dis due to vol solvents: psychotic disordr,diagnostic,929 - res178: Psychosis,2021-03-14
+Eu19400,Read,[X]Mnt/bh dis mlti drg use/oth psy sbs: wthdr state + dlrium,diagnostic,929 - res178: Psychosis,2021-03-14
+Eu19500,Read,[X]Ment/behav dis mlti drug use/oth psyc sbs: psychotc dis,diagnostic,929 - res178: Psychosis,2021-03-14
+Eu19700,Read,[X]Men/beh dis mlt drg use/oth subs: resid/late psychot dis,diagnostic,929 - res178: Psychosis,2021-03-14
+Eu1A500,Read,[X]Mental behav disord due crack cocaine: psychotic disorder,diagnostic,929 - res178: Psychosis,2021-03-14
+Eu20.00,Read,[X]Schizophrenia,diagnostic,929 - res178: Psychosis,2021-03-14
+Eu20000,Read,[X]Paranoid schizophrenia,diagnostic,929 - res178: Psychosis,2021-03-14
+Eu20011,Read,[X]Paraphrenic schizophrenia,diagnostic,929 - res178: Psychosis,2021-03-14
+Eu20100,Read,[X]Hebephrenic schizophrenia,diagnostic,929 - res178: Psychosis,2021-03-14
+Eu20111,Read,[X]Disorganised schizophrenia,diagnostic,929 - res178: Psychosis,2021-03-14
+Eu20200,Read,[X]Catatonic schizophrenia,diagnostic,929 - res178: Psychosis,2021-03-14
+Eu20211,Read,[X]Catatonic stupor,diagnostic,929 - res178: Psychosis,2021-03-14
+Eu20212,Read,[X]Schizophrenic catalepsy,diagnostic,929 - res178: Psychosis,2021-03-14
+Eu20213,Read,[X]Schizophrenic catatonia,diagnostic,929 - res178: Psychosis,2021-03-14
+Eu20214,Read,[X]Schizophrenic flexibilatis cerea,diagnostic,929 - res178: Psychosis,2021-03-14
+Eu20300,Read,[X]Undifferentiated schizophrenia,diagnostic,929 - res178: Psychosis,2021-03-14
+Eu20311,Read,[X]Atypical schizophrenia,diagnostic,929 - res178: Psychosis,2021-03-14
+Eu20400,Read,[X]Post-schizophrenic depression,diagnostic,929 - res178: Psychosis,2021-03-14
+Eu20500,Read,[X]Residual schizophrenia,diagnostic,929 - res178: Psychosis,2021-03-14
+Eu20511,Read,[X]Chronic undifferentiated schizophrenia,diagnostic,929 - res178: Psychosis,2021-03-14
+Eu20600,Read,[X]Simple schizophrenia,diagnostic,929 - res178: Psychosis,2021-03-14
+Eu20y00,Read,[X]Other schizophrenia,diagnostic,929 - res178: Psychosis,2021-03-14
+Eu20y12,Read,[X]Schizophreniform disord NOS,diagnostic,929 - res178: Psychosis,2021-03-14
+Eu20y13,Read,[X]Schizophrenifrm psychos NOS,diagnostic,929 - res178: Psychosis,2021-03-14
+Eu20z00,Read,[X]Schizophrenia; unspecified,diagnostic,929 - res178: Psychosis,2021-03-14
+Eu23.00,Read,[X]Acute and transient psychotic disorders,diagnostic,929 - res178: Psychosis,2021-03-14
+Eu23000,Read,[X]Acute polymorphic psychot disord without symp of schizoph,diagnostic,929 - res178: Psychosis,2021-03-14
+Eu23011,Read,[X]Bouffee delirante,diagnostic,929 - res178: Psychosis,2021-03-14
+Eu23012,Read,[X]Cycloid psychosis,diagnostic,929 - res178: Psychosis,2021-03-14
+Eu23100,Read,[X]Acute polymorphic psychot disord with symp of schizophren,diagnostic,929 - res178: Psychosis,2021-03-14
+Eu23112,Read,[X]Cycloid psychosis with symptoms of schizophrenia,diagnostic,929 - res178: Psychosis,2021-03-14
+Eu23200,Read,[X]Acute schizophrenia-like psychotic disorder,diagnostic,929 - res178: Psychosis,2021-03-14
+Eu23211,Read,[X]Brief schizophreniform disorder,diagnostic,929 - res178: Psychosis,2021-03-14
+Eu23212,Read,[X]Brief schizophrenifrm psych,diagnostic,929 - res178: Psychosis,2021-03-14
+Eu23214,Read,[X]Schizophrenic reaction,diagnostic,929 - res178: Psychosis,2021-03-14
+Eu23300,Read,[X]Other acute predominantly delusional psychotic disorders,diagnostic,929 - res178: Psychosis,2021-03-14
+Eu23312,Read,[X]Psychogenic paranoid psychosis,diagnostic,929 - res178: Psychosis,2021-03-14
+Eu23y00,Read,[X]Other acute and transient psychotic disorders,diagnostic,929 - res178: Psychosis,2021-03-14
+Eu23z00,Read,[X]Acute and transient psychotic disorder; unspecified,diagnostic,929 - res178: Psychosis,2021-03-14
+Eu23z11,Read,[X]Brief reactive psychosis NOS,diagnostic,929 - res178: Psychosis,2021-03-14
+Eu23z12,Read,[X]Reactive psychosis,diagnostic,929 - res178: Psychosis,2021-03-14
+Eu24.00,Read,[X]Induced delusional disorder,diagnostic,929 - res178: Psychosis,2021-03-14
+Eu24.12,Read,[X]Induced paranoid disorder,diagnostic,929 - res178: Psychosis,2021-03-14
+Eu24.13,Read,[X]Induced psychotic disorder,diagnostic,929 - res178: Psychosis,2021-03-14
+R001.00,Read,[D]Hallucinations,diagnostic,929 - res178: Psychosis,2021-03-14
+R001000,Read,[D]Hallucinations; auditory,diagnostic,929 - res178: Psychosis,2021-03-14
+R001100,Read,[D]Hallucinations; gustatory,diagnostic,929 - res178: Psychosis,2021-03-14
+R001200,Read,[D]Hallucinations; olfactory,diagnostic,929 - res178: Psychosis,2021-03-14
+R001300,Read,[D]Hallucinations; tactile,diagnostic,929 - res178: Psychosis,2021-03-14
+R001400,Read,[D]Visual hallucinations,diagnostic,929 - res178: Psychosis,2021-03-14
+R001z00,Read,[D]Hallucinations NOS,diagnostic,929 - res178: Psychosis,2021-03-14

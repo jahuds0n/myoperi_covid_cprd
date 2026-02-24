@@ -1,0 +1,97 @@
+code,coding_system,description,entity,list_name,upload_date
+1S42.00,Read,manic mood,diagnostic,1065 - res201: Bipolar disorder,2023-02-26
+E110.00,Read,manic disorder; single episode,diagnostic,1065 - res201: Bipolar disorder,2023-02-26
+E110000,Read,single manic episode; unspecified,diagnostic,1065 - res201: Bipolar disorder,2023-02-26
+E110100,Read,single manic episode; mild,diagnostic,1065 - res201: Bipolar disorder,2023-02-26
+E110.11,Read,hypomanic psychoses,diagnostic,1065 - res201: Bipolar disorder,2023-02-26
+E110200,Read,single manic episode; moderate,diagnostic,1065 - res201: Bipolar disorder,2023-02-26
+E110300,Read,single manic episode; severe without mention of psychosis,diagnostic,1065 - res201: Bipolar disorder,2023-02-26
+E110400,Read,single manic episode; severe; with psychosis,diagnostic,1065 - res201: Bipolar disorder,2023-02-26
+E110500,Read,Single manic episode in partial or unspecified remission,diagnostic,1065 - res201: Bipolar disorder,2023-02-26
+E110600,Read,single manic episode in full remission,diagnostic,1065 - res201: Bipolar disorder,2023-02-26
+E110z00,Read,manic disorder; single episode nos,diagnostic,1065 - res201: Bipolar disorder,2023-02-26
+E111.00,Read,recurrent manic episodes,diagnostic,1065 - res201: Bipolar disorder,2023-02-26
+E111000,Read,recurrent manic episodes; unspecified,diagnostic,1065 - res201: Bipolar disorder,2023-02-26
+E11..11,Read,bipolar psychoses,diagnostic,1065 - res201: Bipolar disorder,2023-02-26
+E111100,Read,recurrent manic episodes; mild,diagnostic,1065 - res201: Bipolar disorder,2023-02-26
+E111200,Read,recurrent manic episodes; moderate,diagnostic,1065 - res201: Bipolar disorder,2023-02-26
+E11..13,Read,manic psychoses,diagnostic,1065 - res201: Bipolar disorder,2023-02-26
+E111300,Read,recurrent manic episodes; severe without mention psychosis,diagnostic,1065 - res201: Bipolar disorder,2023-02-26
+E111400,Read,recurrent manic episodes; severe; with psychosis,diagnostic,1065 - res201: Bipolar disorder,2023-02-26
+E111500,Read,recurrent manic episodes; partial or unspecified remission,diagnostic,1065 - res201: Bipolar disorder,2023-02-26
+E111600,Read,recurrent manic episodes; in full remission,diagnostic,1065 - res201: Bipolar disorder,2023-02-26
+E111z00,Read,recurrent manic episode nos,diagnostic,1065 - res201: Bipolar disorder,2023-02-26
+E114.00,Read,bipolar affective disorder; currently manic,diagnostic,1065 - res201: Bipolar disorder,2023-02-26
+E114000,Read,bipolar affective disorder; currently manic; unspecified,diagnostic,1065 - res201: Bipolar disorder,2023-02-26
+E114100,Read,bipolar affective disorder; currently manic; mild,diagnostic,1065 - res201: Bipolar disorder,2023-02-26
+E114.11,Read,manic-depressive - now manic,diagnostic,1065 - res201: Bipolar disorder,2023-02-26
+E114200,Read,bipolar affective disorder; currently manic; moderate,diagnostic,1065 - res201: Bipolar disorder,2023-02-26
+E114300,Read,bipolar affect disord; currently manic; severe; no psychosis,diagnostic,1065 - res201: Bipolar disorder,2023-02-26
+E114400,Read,bipolar affect disord; currently manic;severe with psychosis,diagnostic,1065 - res201: Bipolar disorder,2023-02-26
+E114500,Read,bipolar affect disord;currently manic; part/unspec remission,diagnostic,1065 - res201: Bipolar disorder,2023-02-26
+E114600,Read,bipolar affective disorder; currently manic; full remission,diagnostic,1065 - res201: Bipolar disorder,2023-02-26
+E114z00,Read,bipolar affective disorder; currently manic; nos,diagnostic,1065 - res201: Bipolar disorder,2023-02-26
+E115.00,Read,bipolar affective disorder; currently depressed,diagnostic,1065 - res201: Bipolar disorder,2023-02-26
+E115000,Read,bipolar affective disorder; currently depressed; unspecified,diagnostic,1065 - res201: Bipolar disorder,2023-02-26
+E115100,Read,bipolar affective disorder; currently depressed; mild,diagnostic,1065 - res201: Bipolar disorder,2023-02-26
+E115.11,Read,manic-depressive - now depressed,diagnostic,1065 - res201: Bipolar disorder,2023-02-26
+E115200,Read,bipolar affective disorder; currently depressed; moderate,diagnostic,1065 - res201: Bipolar disorder,2023-02-26
+E115300,Read,bipolar affect disord; now depressed; severe; no psychosis,diagnostic,1065 - res201: Bipolar disorder,2023-02-26
+E115400,Read,bipolar affect disord; now depressed; severe with psychosis,diagnostic,1065 - res201: Bipolar disorder,2023-02-26
+E115500,Read,bipolar affect disord; now depressed; part/unspec remission,diagnostic,1065 - res201: Bipolar disorder,2023-02-26
+E115600,Read,bipolar affective disorder; now depressed; in full remission,diagnostic,1065 - res201: Bipolar disorder,2023-02-26
+E115z00,Read,bipolar affective disorder; currently depressed; nos,diagnostic,1065 - res201: Bipolar disorder,2023-02-26
+E116.00,Read,mixed bipolar affective disorder,diagnostic,1065 - res201: Bipolar disorder,2023-02-26
+E116000,Read,mixed bipolar affective disorder; unspecified,diagnostic,1065 - res201: Bipolar disorder,2023-02-26
+E116100,Read,mixed bipolar affective disorder; mild,diagnostic,1065 - res201: Bipolar disorder,2023-02-26
+E116200,Read,mixed bipolar affective disorder; moderate,diagnostic,1065 - res201: Bipolar disorder,2023-02-26
+E116300,Read,mixed bipolar affective disorder; severe; without psychosis,diagnostic,1065 - res201: Bipolar disorder,2023-02-26
+E116400,Read,mixed bipolar affective disorder; severe; with psychosis,diagnostic,1065 - res201: Bipolar disorder,2023-02-26
+E116500,Read,mixed bipolar affective disorder; partial/unspec remission,diagnostic,1065 - res201: Bipolar disorder,2023-02-26
+E116600,Read,mixed bipolar affective disorder; in full remission,diagnostic,1065 - res201: Bipolar disorder,2023-02-26
+E116z00,Read,mixed bipolar affective disorder; nos,diagnostic,1065 - res201: Bipolar disorder,2023-02-26
+E117.00,Read,unspecified bipolar affective disorder,diagnostic,1065 - res201: Bipolar disorder,2023-02-26
+E117000,Read,unspecified bipolar affective disorder; unspecified,diagnostic,1065 - res201: Bipolar disorder,2023-02-26
+E117100,Read,unspecified bipolar affective disorder; mild,diagnostic,1065 - res201: Bipolar disorder,2023-02-26
+E117200,Read,unspecified bipolar affective disorder; moderate,diagnostic,1065 - res201: Bipolar disorder,2023-02-26
+E117300,Read,unspecified bipolar affective disorder; severe; no psychosis,diagnostic,1065 - res201: Bipolar disorder,2023-02-26
+E117400,Read,unspecified bipolar affective disorder;severe with psychosis,diagnostic,1065 - res201: Bipolar disorder,2023-02-26
+E117500,Read,unspecified bipolar affect disord; partial/unspec remission,diagnostic,1065 - res201: Bipolar disorder,2023-02-26
+E117600,Read,unspecified bipolar affective disorder; in full remission,diagnostic,1065 - res201: Bipolar disorder,2023-02-26
+E117z00,Read,unspecified bipolar affective disorder; nos,diagnostic,1065 - res201: Bipolar disorder,2023-02-26
+E11y.00,Read,other and unspecified manic-depressive psychoses,diagnostic,1065 - res201: Bipolar disorder,2023-02-26
+E11y000,Read,unspecified manic-depressive psychoses,diagnostic,1065 - res201: Bipolar disorder,2023-02-26
+E11y100,Read,atypical manic disorder,diagnostic,1065 - res201: Bipolar disorder,2023-02-26
+E11y300,Read,other mixed manic-depressive psychoses,diagnostic,1065 - res201: Bipolar disorder,2023-02-26
+E11yz00,Read,other and unspecified manic-depressive psychoses nos,diagnostic,1065 - res201: Bipolar disorder,2023-02-26
+Eu30.00,Read,[x]manic episode,diagnostic,1065 - res201: Bipolar disorder,2023-02-26
+Eu30000,Read,[x]hypomania,diagnostic,1065 - res201: Bipolar disorder,2023-02-26
+Eu30100,Read,[x]mania without psychotic symptoms,diagnostic,1065 - res201: Bipolar disorder,2023-02-26
+Eu30.11,Read,[x]bipolar disorder; single manic episode,diagnostic,1065 - res201: Bipolar disorder,2023-02-26
+Eu30200,Read,[x]mania with psychotic symptoms,diagnostic,1065 - res201: Bipolar disorder,2023-02-26
+Eu30211,Read,[x]mania with mood-congruent psychotic symptoms,diagnostic,1065 - res201: Bipolar disorder,2023-02-26
+Eu30212,Read,[x]mania with mood-incongruent psychotic symptoms,diagnostic,1065 - res201: Bipolar disorder,2023-02-26
+Eu30y00,Read,[x]other manic episodes,diagnostic,1065 - res201: Bipolar disorder,2023-02-26
+Eu30z00,Read,[x]manic episode; unspecified,diagnostic,1065 - res201: Bipolar disorder,2023-02-26
+Eu30z11,Read,[x]mania nos,diagnostic,1065 - res201: Bipolar disorder,2023-02-26
+Eu31.00,Read,[x]bipolar affective disorder,diagnostic,1065 - res201: Bipolar disorder,2023-02-26
+Eu31000,Read,[x]bipolar affective disorder; current episode hypomanic,diagnostic,1065 - res201: Bipolar disorder,2023-02-26
+Eu31100,Read,[x]bipolar affect disorder cur epi manic wout psychotic symp,diagnostic,1065 - res201: Bipolar disorder,2023-02-26
+Eu31.11,Read,[x]manic-depressive illness,diagnostic,1065 - res201: Bipolar disorder,2023-02-26
+Eu31.12,Read,[x]manic-depressive psychosis,diagnostic,1065 - res201: Bipolar disorder,2023-02-26
+Eu31.13,Read,[x]manic-depressive reaction,diagnostic,1065 - res201: Bipolar disorder,2023-02-26
+Eu31200,Read,[x]bipolar affect disorder cur epi manic with psychotic symp,diagnostic,1065 - res201: Bipolar disorder,2023-02-26
+Eu31300,Read,[x]bipolar affect disorder cur epi mild or moderate depressn,diagnostic,1065 - res201: Bipolar disorder,2023-02-26
+Eu31400,Read,[x]bipol aff disord; curr epis sev depress; no psychot symp,diagnostic,1065 - res201: Bipolar disorder,2023-02-26
+Eu31500,Read,[x]bipolar affect dis cur epi severe depres with psyc symp,diagnostic,1065 - res201: Bipolar disorder,2023-02-26
+Eu31600,Read,[x]bipolar affective disorder; current episode mixed,diagnostic,1065 - res201: Bipolar disorder,2023-02-26
+Eu31700,Read,[x]bipolar affective disorder; currently in remission,diagnostic,1065 - res201: Bipolar disorder,2023-02-26
+Eu31800,Read,[x]bipolar affective disorder type i,diagnostic,1065 - res201: Bipolar disorder,2023-02-26
+Eu31900,Read,[x]bipolar affective disorder type ii,diagnostic,1065 - res201: Bipolar disorder,2023-02-26
+Eu31911,Read,[x]bipolar ii disorder,diagnostic,1065 - res201: Bipolar disorder,2023-02-26
+Eu31y00,Read,[x]other bipolar affective disorders,diagnostic,1065 - res201: Bipolar disorder,2023-02-26
+Eu31y11,Read,[x]bipolar ii disorder,diagnostic,1065 - res201: Bipolar disorder,2023-02-26
+Eu31y12,Read,[x]recurrent manic episodes,diagnostic,1065 - res201: Bipolar disorder,2023-02-26
+Eu31z00,Read,[x]bipolar affective disorder; unspecified,diagnostic,1065 - res201: Bipolar disorder,2023-02-26
+Eu33213,Read,[x]Manic-depress psychosis; depressed; no psychotic symptoms,diagnostic,1065 - res201: Bipolar disorder,2023-02-26
+Eu33312,Read,[x]Manic-depress psychosis; depressed type+psychotic symptoms,diagnostic,1065 - res201: Bipolar disorder,2023-02-26
