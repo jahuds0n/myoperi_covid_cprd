@@ -1,0 +1,898 @@
+medcodeid,term,snomedctconceptid,renal
+10128851000006111,haemodialysis,18682911000001103,1
+105227013,chronic pyelonephritis,63302006,1
+106291000006118,thomas intravascular shunt for dialysis,302497006,1
+114310015,lupus nephritis,68815009,1
+117168016,renal transplant,70536003,1
+118218017,peritoneal dialysis,71192002,1
+11910651000006112,[v]kidney transplanted,399241000000100,1
+12019461000006111,fluoroscopy guided removal of nephrostomy tube from transplanted kidney,764643003,1
+12019471000006116,removal of nephrostomy tube from transplanted kidney using fluoroscopic guidance,764643003,1
+12048101000006116,extracorporeal haemodialysis route,766790006,1
+12048111000006118,extracorporeal hemodialysis route,766790006,1
+1227722017,[v]aftercare involving renal dialysis nos,410511000000103,1
+1227723010,[v]aftercare involving peritoneal dialysis,426351000000102,1
+12456621000006114,[v]aftercare involving peritoneal dialysis,426351000000102,1
+12456631000006112,[v]aftercare involving renal dialysis nos,410511000000103,1
+12625871000006119,kt/v (clearance multiplied by time divided by volume) for haemodialysis,1110511000000102,1
+127091000006118,steroid-sensitive nephrotic syndrome,236380004,1
+12717101000006112,"nephritis, nephrosis and nephrotic syndrome",197577008,1
+1550021000006110,os interventions associated with transplantation of kidney,711446003,1
+1705621000000113,flushing of peritoneal dialysis catheter,238317004,1
+1743241000006119,continuous ambulatory peritoneal dialysis associated peritonitis,699235009,1
+176711000006111,"renal dialysis with complication, without blame",116223007,1
+177251000006119,"renal transplant with complication, without blame",88797001,1
+181021000006119,removal of ambulatory peritoneal dialysis catheter,180273006,1
+1834361000006110,discussion about kidney transplantation,1834361000006106,1
+1847541000006113,wilms' tumour and nephrotic syndrome with pseudohermaphroditism,236385009,1
+1848741000006116,complication of peritoneal dialysis,33461007,1
+1905531000006112,excision of rejected transplanted kidney,284348003,1
+1940501000006119,ckd g4a1 - chronic kidney disease with glomerular filtration rate category g4 and albuminuria category a1,950181000000106,1
+1940511000006116,ckd g4a2 - chronic kidney disease with glomerular filtration rate category g4 and albuminuria category a2,950211000000107,1
+1940521000006112,ckd g4a3 - chronic kidney disease with glomerular filtration rate category g4 and albuminuria category a3,950231000000104,1
+1940531000006110,ckd g5a1 - chronic kidney disease with glomerular filtration rate category g5 and albuminuria category a1,950251000000106,1
+1940541000006117,ckd g5a2 - chronic kidney disease with glomerular filtration rate category g5 and albuminuria category a2,950291000000103,1
+1940551000006115,ckd g5a3 - chronic kidney disease with glomerular filtration rate category g5 and albuminuria category a3,950311000000102,1
+1940621000006111,ckd g3aa1 - chronic kidney disease with glomerular filtration rate category g3a and albuminuria category a1,949881000000106,1
+1940631000006114,ckd g3aa2 - chronic kidney disease with glomerular filtration rate category g3a and albuminuria category a2,949901000000109,1
+1940641000006116,ckd g3aa3 - chronic kidney disease with glomerular filtration rate category g3a and albuminuria category a3,949921000000100,1
+1940651000006119,ckd g3ba1 - chronic kidney disease with glomerular filtration rate category g3b and albuminuria category a1,950061000000103,1
+1940661000006117,ckd g3ba2 - chronic kidney disease with glomerular filtration rate category g3b and albuminuria category a2,950081000000107,1
+1940671000006112,ckd g3ba3 - chronic kidney disease with glomerular filtration rate category g3b and albuminuria category a3,950101000000101,1
+2189151000000117,urological complication of renal transplant,843691000000100,1
+2191221000000118,vascular complication of renal transplant,844661000000109,1
+2211311000000117,haemodialysis first use syndrome,236539007,1
+2211591000000116,thrombus in peritoneal dialysis catheter,854131000000107,1
+2211671000000119,anaphylactoid reaction due to haemodialysis,854161000000102,1
+2221251000000115,discussion about kidney transplantation,858421000000106,1
+228101000006113,placement ambulatory apparatus compensation renal failure,180272001,1
+228121000006115,placement ambulatory apparatus- compensate renal failure os,271418008,1
+228131000006117,placement ambulatory dialysis apparatus - compens renal fail,180272001,1
+2509281000006118,peritoneal dialysis including cannulation,676002,1
+251956015,h/o: kidney dialysis,161693006,1
+251957012,h/o: renal dialysis,161693006,1
+2550761000006119,empty and measure peritoneal dialysis fluid,3257008,1
+261136015,peritoneal dialysis sample,168140004,1
+2672571000006112,removal of peritoneal dialysis catheter,10848006,1
+2674486017,extracorporeal albumin haemodialysis,427053002,1
+2689941000006111,stabilising haemodialysis,11932001,1
+2689951000006113,stabilizing hemodialysis,11932001,1
+2692168016,automated peritoneal dialysis,428648006,1
+272325018,cadaveric renal transplant,175902000,1
+272326017,other specified transplantation of kidney,70536003,1
+272327014,transplantation of kidney nos,70536003,1
+272389014,exploration of renal transplant,175948009,1
+2732451000006111,peritoneal dialysis excluding cannulation,14684005,1
+2743241000000110,transplant of kidney using robotic assistance,1095231000000108,1
+2751501000006118,chronic haemodialysis diet,15859004,1
+2751511000006115,chronic hemodialysis diet,15859004,1
+2767154014,chronic kidney disease stage 5,433146000,1
+2767385013,chronic kidney disease stage 4,431857002,1
+2773184015,chronic kidney disease stage 3,433144002,1
+278832011,haemodialysis,302497006,1
+278834012,other specified compensation for renal failure,265763003,1
+278835013,compensation for renal failure nos,265764009,1
+278844014,insertion of temporary peritoneal dialysis catheter,180277007,1
+2832821000006115,cgn - chronic glomerulonephritis,20917003,1
+284213011,renal transplant planned,183985008,1
+2868901000006111,"anaesthesia for renal transplant, recipient",23137002,1
+2868911000006114,"anesthesia for renal transplant, recipient",23137002,1
+290737016,dependence on renal dialysis,105502003,1
+2938561000006116,megaloblastic anaemia due to haemodialysis,27366005,1
+2938571000006111,megaloblastic anemia due to hemodialysis,27366005,1
+2963211000006116,hemodialysis training,28812006,1
+2963221000006112,haemodialysis training,28812006,1
+3025071000006111,haemodialysis-associated amyloidosis,32599008,1
+3025081000006114,hemodialysis-associated amyloidosis,32599008,1
+303806010,"nephritis, nephrosis and nephrotic syndrome",197577008,1
+303825013,nephrotic syndrome with proliferative glomerulonephritis,197589005,1
+303826014,nephrotic syndrome with membranous glomerulonephritis,197590001,1
+303832016,"nephrotic syndrome, minor glomerular abnormality",197593004,1
+303833014,"nephrotic syndrome, focal and segmental glomerular lesions",197594005,1
+303834015,"nephrotic syndrome, diffuse membranous glomerulonephritis",197595006,1
+303838017,"nephrotic syndrome, dense deposit disease",197599000,1
+303839013,"nephrotic syndrome, diffuse crescentic glomerulonephritis",197600002,1
+303843012,congenital nephrotic syndrome nos,48796009,1
+303844018,nephrotic syndrome in diseases ec,197603000,1
+303845017,nephrotic syndrome in amyloidosis,197604006,1
+303846016,nephrotic syndrome in diabetes mellitus,197605007,1
+303847013,kimmelstiel - wilson disease,197605007,1
+303848015,nephrotic syndrome in malaria,197606008,1
+303849011,nephrotic syndrome in polyarteritis nodosa,197607004,1
+303853013,nephrotic syndrome associated with another disorder,197603000,1
+303854019,nephrotic syndrome with other pathological kidney lesions,52254009,1
+303855018,nephrotic syndrome nos,52254009,1
+303863017,chronic rapidly progressive glomerulonephritis,236392004,1
+303864011,other chronic glomerulonephritis,20917003,1
+303867016,chronic focal glomerulonephritis,197618004,1
+303868014,chronic diffuse glomerulonephritis,197619007,1
+303869018,other chronic glomerulonephritis nos,20917003,1
+303870017,chronic glomerulonephritis nos,20917003,1
+304056012,"other specified nephritis, nephrosis or nephrotic syndrome",90708001,1
+304058013,"nephritis, nephrosis and nephrotic syndrome nos",90708001,1
+304060010,chronic pyelonephritis without medullary necrosis,197760006,1
+304061014,chronic pyelonephritis with medullary necrosis,197761005,1
+304062019,chronic pyelitis,197762003,1
+304063012,chronic pyonephrosis,197763008,1
+3040651000006117,complication of renal dialysis,33603003,1
+304067013,chronic pyelonephritis nos,63302006,1
+304071000000115,chronic kidney disease stage 3,433144002,1
+304091000000116,chronic kidney disease stage 4,431857002,1
+304111000000114,chronic kidney disease stage 5,433146000,1
+3062151000006117,"haemodialysis, maintenance in hospital",34897002,1
+3062161000006115,"hemodialysis, maintenance in hospital",34897002,1
+3095561000006115,haemodialysis machine,36965003,1
+3095571000006110,hemodialysis machine,36965003,1
+3095581000006113,"hemodialysis machine, device",36965003,1
+3135211000006116,removal of arteriovenous shunt for renal dialysis,39482009,1
+3222371000006111,minimal change nephrotic syndrome,44785005,1
+3222381000006114,idiopathic nephrotic syndrome,44785005,1
+3222421000006116,mcns - minimal change nephrotic syndrome,44785005,1
+324973015,kidney transplant failure and rejection,213150003,1
+3289691000006118,familial nephrotic syndrome,48796009,1
+329116017,failure of sterile precautions during kidney dialysis,216933008,1
+3312881000006116,haemodialysis fluid,50182002,1
+3312891000006118,hemodialysis fluid,50182002,1
+3347091000006118,ns - nephrotic syndrome,52254009,1
+3389671000006112,arteriovenous shunt for renal dialysis by external cannula,54817007,1
+3389691000006113,formation of arteriovenous fistula by external cannula for renal dialysis,54817007,1
+3430751000006117,initial haemodialysis,57274006,1
+3430761000006115,initial hemodialysis,57274006,1
+3455171000006118,disorder of transplanted kidney,58797008,1
+3455181000006115,complication of transplanted kidney,58797008,1
+3468081000006116,hemodialysis training at home,59596005,1
+3468091000006118,haemodialysis training at home,59596005,1
+349998013,haemofiltration,233581009,1
+3503071000006115,"insertion of cannula for haemodialysis, vein to vein",61740001,1
+3503081000006117,"insertion of cannula for hemodialysis, vein to vein",61740001,1
+35171019,chronic glomerulonephritis,20917003,1
+3517273018,haemodialysis care plan,736375002,1
+3517274012,hemodialysis care plan,736375002,1
+3524930011,hemodialysis needle gauge,736795005,1
+3525029011,haemodialysis needle gauge,736795005,1
+3525742018,infection related to hemodialysis catheter,736918003,1
+3525743011,infection related to haemodialysis catheter,736918003,1
+3525745016,insertion of hemodialysis catheter,736919006,1
+3525746015,insertion of haemodialysis catheter,736919006,1
+3525748019,infection related to tunneled hemodialysis catheter,736920000,1
+3525751014,infection related to tunnelled haemodialysis catheter,736920000,1
+3525758015,insertion of tunneled hemodialysis catheter,736922008,1
+3525759011,insertion of tunnelled haemodialysis catheter,736922008,1
+3526119012,infection related to temporary hemodialysis catheter,736984007,1
+3526120018,infection related to temporary haemodialysis catheter,736984007,1
+3526128013,mechanical complication of hemodialysis catheter,736987000,1
+3526129017,mechanical complication of haemodialysis catheter,736987000,1
+3527360016,transplanted kidney present,737295003,1
+3529461000006113,cpn - chronic pyelonephritis,63302006,1
+3531541000006113,insertion of cannula for haemodialysis,63421002,1
+3531551000006110,insertion of cannula for hemodialysis,63421002,1
+3531561000006112,insertion of haemodialysis shunt,63421002,1
+3531571000006117,insertion of hemodialysis shunt,63421002,1
+353974015,xenograft renal transplant,236138007,1
+354330018,chronic obstructive pyelonephritis,236379002,1
+354340015,congenital nephrotic syndrome with focal glomerulosclerosis,236384008,1
+354341016,nephrotic syndrome with pseudohermaphroditism,236385009,1
+354343018,drash syndrome,236385009,1
+354399015,thin basement membrane disease,236418003,1
+354610013,renal transplant rejection,236570004,1
+354612017,accelerated rejection of renal transplant,236572007,1
+354613010,very mild acute rejection of renal transplant,236573002,1
+354615015,acute rejection of renal transplant,236574008,1
+354616019,acute rejection of renal transplant - grade i,236575009,1
+354617011,acute rejection of renal transplant - grade ii,236576005,1
+354618018,acute rejection of renal transplant - grade iii,236577001,1
+354619014,chronic rejection of renal transplant,236578006,1
+354623018,chronic rejection of renal transplant - grade 1,236579003,1
+354624012,chronic rejection of renal transplant - grade ii,236580000,1
+354627017,chronic rejection of renal transplant - grade iii,236581001,1
+354628010,acute-on-chronic rejection of renal transplant,236582008,1
+357219012,continuous ambulatory peritoneal dialysis,238318009,1
+3579811000006112,peritoneal dialysis training,66402002,1
+3605671000006116,"haemodialysis, maintenance at home",67970008,1
+3605681000006118,"hemodialysis, maintenance at home",67970008,1
+3612021000006116,"haemodialysis, supervision at home",68341005,1
+3612031000006118,"hemodialysis, supervision at home",68341005,1
+3628271000006115,venous catheterisation for renal dialysis,69380006,1
+3628281000006117,venous catheterization for renal dialysis,69380006,1
+3647021000006114,transplant of kidney,70536003,1
+3647031000006112,kidney transplantation,70536003,1
+3647051000006117,tx - renal transplantation,70536003,1
+3647061000006115,kidney transplant,70536003,1
+3647071000006110,tx - kidney transplantation,70536003,1
+3653831000006114,structure of transplanted kidney,70948008,1
+3653841000006116,transplanted kidney,70948008,1
+3657891000006116,pd - peritoneal dialysis,71192002,1
+366671000000118,interventions associated with transplantation of kidney,711446003,1
+3691341000006115,peritoneal dialysis catheter maintenance,73257006,1
+375841000000114,peritoneal dialysis nec,71192002,1
+3798181000006111,arteriovenous anastomosis for renal dialysis,79827002,1
+3798191000006114,arteriovenostomy for renal dialysis,79827002,1
+3798201000006112,formation of arteriovenous fistula for kidney dialysis,79827002,1
+3798211000006110,arteriovenous shunt for renal dialysis,79827002,1
+380061000000118,interventions associated with transplantation of kidney nos,711446003,1
+380101000000116,examination of recipient after kidney transplant,428645009,1
+3885861000006116,complication of haemodialysis,85223007,1
+3885871000006111,complication of hemodialysis,85223007,1
+394639018,compensation for renal failure,265763003,1
+394640016,renal dialysis,265764009,1
+396706011,nephrotic syndrome with minimal change glomerulonephritis,266549004,1
+39884018,calculous pyelonephritis,23754003,1
+413415016,unexplained episode of renal transplant dysfunction,277010001,1
+4218231000006113,kidney transplant evaluation,113127005,1
+422992018,excision of rejected transplanted kidney,284348003,1
+441151000006115,"accidental cut, puncture, perforation or haemorrhage during kidney dialysis",216878005,1
+441161000006118,"accid cut,puncture,perf,h'ge - kidney dialysis/oth perfusion",269691005,1
+446291000006111,accidental cut/puncture/perf/haem'ge during renal dialysis,216878005,1
+453312018,peritoneal dialysis-associated peritonitis,276883000,1
+4542501000006119,history of renal transplant,161665007,1
+4543021000006113,history of renal dialysis,161693006,1
+460644012,history of renal transplant,161665007,1
+4669451000006113,exploration of kidney transplant,175948009,1
+4694051000006116,removal of chronic ambulatory peritoneal dialysis catheter,180273006,1
+4788371000006112,cnf - finnish congenital nephrotic syndrome,197601003,1
+4788421000006117,nephrotic syndrome due to diabetes mellitus,197605007,1
+4788511000006114,chronic glomerulonephritis associated with another disorder,197616000,1
+4789231000006111,non-obstructive reflux-associated chronic pyelonephritis,197764002,1
+4898631000006119,"accidental cut, puncture, perforation or hemorrhage during kidney dialysis",216878005,1
+4929621000006114,hemodialysis nurse,224566003,1
+4937911000006117,putting additive into peritoneal dialysis bag,225228006,1
+4937921000006113,peritoneal dialysis bag procedure,225229003,1
+4937931000006111,chronic peritoneal dialysis,225230008,1
+4937941000006118,pd - chronic peritoneal dialysis,225230008,1
+4937951000006116,stab peritoneal dialysis,225231007,1
+4937961000006119,pd - stab peritoneal dialysis,225231007,1
+4938571000006119,reversing haemodialysis lines,225281003,1
+4938581000006116,reversing hemodialysis lines,225281003,1
+4938591000006118,washing back through haemodialysis lines,225282005,1
+4938601000006114,washing back through hemodialysis lines,225282005,1
+4938611000006112,priming haemodialysis lines,225283000,1
+4938621000006116,priming hemodialysis lines,225283000,1
+4947991000006114,revision of arteriovenous shunt for renal dialysis,225892009,1
+501594013,transplantation of kidney,70536003,1
+5052661000006111,intermittent haemodialysis,233575001,1
+5052671000006116,intermittent hemodialysis,233575001,1
+5052681000006118,intermittent haemodialysis with sequential ultrafiltration,233576000,1
+5052691000006115,intermittent hemodialysis with sequential ultrafiltration,233576000,1
+5052701000006115,intermittent haemodialysis with continuous ultrafiltration,233577009,1
+5052711000006117,intermittent hemodialysis with continuous ultrafiltration,233577009,1
+5052721000006113,continuous haemodialysis,233578004,1
+5052731000006111,continuous hemodialysis,233578004,1
+5052741000006118,continuous arteriovenous haemodialysis,233579007,1
+5052751000006116,cavd - continuous arteriovenous hemodialysis,233579007,1
+5052761000006119,continuous arteriovenous hemodialysis filtration,233579007,1
+5052771000006114,continuous arteriovenous haemodialysis filtration,233579007,1
+5052781000006112,cavd - continuous arteriovenous haemodialysis,233579007,1
+5052791000006110,continuous arteriovenous hemodialysis,233579007,1
+5052801000006111,continuous venovenous haemodialysis,233580005,1
+5052811000006114,continuous venovenous hemodialysis,233580005,1
+5052821000006118,cvvhd - continuous venovenous haemodialysis,233580005,1
+5052831000006115,continuous venovenous haemodialysis filtration,233580005,1
+5052841000006113,cvvd - continuous venovenous haemodialysis,233580005,1
+5052851000006110,continuous venovenous hemodialysis filtration,233580005,1
+5052861000006112,cvvd - continuous venovenous hemodialysis,233580005,1
+5052871000006117,cvvhd - continuous venovenous hemodialysis,233580005,1
+5093331000006111,steroid-responsive nephrotic syndrome,236380004,1
+5093341000006118,ssns - steroid-sensitive nephrotic syndrome,236380004,1
+5093351000006116,steroid-resistant nephrotic syndrome,236381000,1
+5093361000006119,steroid-unresponsive nephrotic syndrome,236381000,1
+5093371000006114,srns - steroid-resistant nephrotic syndrome,236381000,1
+5093381000006112,steroid-dependent nephrotic syndrome,236382007,1
+5093391000006110,sdns - steroid-dependent nephrotic syndrome,236382007,1
+5093451000006111,wilms' tumor and nephrotic syndrome with pseudohermaphroditism,236385009,1
+5094171000006114,end stage renal failure with renal transplant,236436003,1
+5095551000006113,acute disorder of haemodialysis,236538004,1
+5095561000006110,hd - acute complications of haemodialysis,236538004,1
+5095571000006115,hd - acute complications of hemodialysis,236538004,1
+5095581000006117,acute disorder of hemodialysis,236538004,1
+5095881000006119,peritoneal dialysis catheter exit site infection,236557008,1
+5095891000006116,peritoneal dialysis cannula exit site infection,236557008,1
+5095901000006117,peritoneal dialysis catheter tunnel infection,236558003,1
+5095911000006119,peritoneal dialysis cannula tunnel infection,236558003,1
+5095941000006115,disorder of peritoneal dialysis catheter,236561002,1
+5095951000006118,disorder of peritoneal dialysis cannula,236561002,1
+5095961000006116,obstruction of peritoneal dialysis catheter,236562009,1
+5095971000006111,blockage of peritoneal dialysis catheter,236562009,1
+5095981000006114,migration of peritoneal dialysis catheter,236563004,1
+5095991000006112,omental wrapping around peritoneal dialysis catheter,236564005,1
+5096001000006113,poor drainage of peritoneal dialysis catheter,236565006,1
+5096011000006111,extrusion of peritoneal dialysis catheter cuff,236566007,1
+5096021000006115,misplacement of acute peritoneal dialysis catheter,236567003,1
+5096031000006117,primary non-function of renal transplant,236569000,1
+5096051000006112,hyperacute rejection of renal transplant,236571000,1
+5096231000006110,failed renal transplant,236583003,1
+5096241000006117,perfusion injury of renal transplant,236584009,1
+5120111000006110,renewal of chronic ambulatory peritoneal dialysis catheter,238314006,1
+5120121000006119,adjustment of chronic ambulatory peritoneal dialysis catheter,238315007,1
+5120131000006116,aspiration of chronic ambulatory peritoneal dialysis catheter,238316008,1
+5120141000006114,flushing of chronic ambulatory peritoneal dialysis catheter,238317004,1
+5120171000006118,capd - continuous ambulatory peritoneal dialysis,238318009,1
+5120181000006115,continuous cycling peritoneal dialysis,238319001,1
+5120191000006117,ccpd - continuous cycling peritoneal dialysis,238319001,1
+5120211000006116,intermittent peritoneal dialysis,238321006,1
+5120221000006112,ipd - intermittent peritoneal dialysis,238321006,1
+5120231000006110,tidal peritoneal dialysis,238322004,1
+5120241000006117,"pd - peritoneal dialysis, tidal",238322004,1
+5120251000006115,night-time intermittent peritoneal dialysis,238323009,1
+5120261000006118,"ipd - intermittent peritoneal dialysis, night-time",238323009,1
+5120271000006113,nipd - night-time intermittent peritoneal dialysis,238323009,1
+5157591000006112,renal transplant arteriogram,241249008,1
+5157601000006116,renal transplant venogram,241250008,1
+5157611000006118,renal transplant venous sampling,241251007,1
+5161281000006112,us scan of transplant kidney,241484009,1
+5161291000006110,ultrasound scan of transplant kidney,241484009,1
+5191451000006118,blood sampling from haemodialysis circuit,243777005,1
+5191461000006116,blood sampling from hemodialysis circuit,243777005,1
+5191471000006111,arterial port blood sampling during haemodialysis,243778000,1
+5191481000006114,arterial port blood sampling during hemodialysis,243778000,1
+5191491000006112,venous port blood sampling during haemodialysis,243779008,1
+5191501000006116,venous port blood sampling during hemodialysis,243779008,1
+5307121000006117,peritoneal dialysis observable,251860000,1
+5307221000006110,adequacy of peritoneal dialysis,251867002,1
+5307241000006115,adequacy of haemodialysis,251869004,1
+5307251000006118,adequacy of hemodialysis,251869004,1
+5445811000006110,haemodialysis circuit,261818002,1
+5445821000006119,hemodialysis circuit,261818002,1
+5465901000006114,peritoneal dialysis used,263529000,1
+5467031000006112,type of haemodialysis,263636009,1
+5467041000006119,type of hemodialysis,263636009,1
+5486891000006118,removal of transplanted kidney,265550007,1
+5488801000006112,kidney dialysis,265764009,1
+5488811000006110,artificial kidney dialysis,265764009,1
+5524381000006119,chronic ambulatory peritoneal dialysis catheter procedure,271418008,1
+554481000006111,chronic glomerulonephritis + diseases ec,197616000,1
+555191000006119,membranoproliferative glomerulonephritis,80321008,1
+555201000006116,chronic membranous glomerulonephritis,77182004,1
+556211000006112,chronic proliferative glomerulonephritis,197613008,1
+557811000000119,chronic kidney disease stage 3a,700378005,1
+557831000000110,chronic kidney disease stage 3b,700379002,1
+5592051000006113,peritonitis secondary to peritoneal dialysis,276883000,1
+5593651000006110,pre-existing disease in renal transplant,277011002,1
+5618941000006116,haemodialysis diet,278904002,1
+5618951000006119,hemodialysis diet,278904002,1
+5618971000006112,continuous ambulatory peritoneal dialysis (capd) diet,278905001,1
+5618981000006110,continuous ambulatory peritoneal dialysis diet,278905001,1
+5647611000006119,entire transplanted kidney,281112005,1
+5647621000006110,entire transplant kidney,281112005,1
+5786751000006114,haemodialysis fluid adverse reaction,292762005,1
+5786761000006111,hemodialysis fluid adverse reaction,292762005,1
+5805411000006114,haemodialysis fluid allergy,294301003,1
+5805421000006118,hemodialysis fluid allergy,294301003,1
+585761000006118,nonobstructive reflux-associated chronic pyelonephritis,197764002,1
+5907531000006119,hemodialysis procedure,302497006,1
+5907541000006112,hd - hemodialysis,302497006,1
+5907551000006114,hd - haemodialysis,302497006,1
+5907561000006111,haemodialysis procedure,302497006,1
+5907571000006116,extracorporeal hemodialysis,302497006,1
+5907581000006118,extracorporeal haemodialysis,302497006,1
+5907591000006115,hemodialysis,302497006,1
+595811000000117,chronic kidney disease stage 3 with proteinuria,324251000000105,1
+595871000000110,chronic kidney disease stage 3 without proteinuria,324281000000104,1
+595931000000116,chronic kidney disease stage 3a with proteinuria,324311000000101,1
+595991000000115,chronic kidney disease stage 3a without proteinuria,324341000000100,1
+596051000000115,chronic kidney disease stage 3b with proteinuria,324371000000106,1
+596131000000114,chronic kidney disease stage 3b without proteinuria,324411000000105,1
+596191000000110,chronic kidney disease stage 4 with proteinuria,324441000000106,1
+596261000000111,chronic kidney disease stage 4 without proteinuria,324471000000100,1
+596321000000110,chronic kidney disease stage 5 with proteinuria,324501000000107,1
+596401000000111,chronic kidney disease stage 5 without proteinuria,324541000000105,1
+6000561000006119,care of haemodialysis equipment,310489004,1
+6000571000006114,care of hemodialysis equipment,310489004,1
+618431000000114,ckd stage 3 with proteinuria,324251000000105,1
+618441000000117,ckd stage 3 without proteinuria,324281000000104,1
+618451000000119,ckd stage 3a with proteinuria,324311000000101,1
+618461000000116,ckd stage 3a without proteinuria,324341000000100,1
+618471000000111,ckd stage 3b with proteinuria,324371000000106,1
+618481000000113,ckd stage 3b without proteinuria,324411000000105,1
+618491000000110,ckd stage 4 with proteinuria,324441000000106,1
+618501000000116,ckd stage 4 without proteinuria,324471000000100,1
+618511000000119,ckd stage 5 with proteinuria,324501000000107,1
+618521000000113,ckd stage 5 without proteinuria,324541000000105,1
+619541000006116,dialysis for renal failure,265764009,1
+6201701000006113,haemodialysis concentrate,358240007,1
+6201711000006111,hemodialysis concentrate,358240007,1
+6210341000006119,peritoneal dialysis catheter,360132007,1
+6210351000006117,chronic ambulatory peritoneal dialysis catheter,360133002,1
+6241711000006115,nephrotic syndrome secondary to glomerulonephritis,363233007,1
+6241721000006111,nephrotic syndrome secondary to systemic disease,363234001,1
+663551000006118,failure of sterile precautions during renal dialysis,216933008,1
+6665621000006110,haemodialysis-associated secondary amyloidosis of skin,402458002,1
+6665631000006113,hemodialysis-associated secondary amyloidosis of skin,402458002,1
+6669781000006118,skin lesion associated with haemodialysis,402762007,1
+6669791000006115,skin lesion associated with hemodialysis,402762007,1
+6686181000006114,haemodialysis-associated pseudoporphyria,403732009,1
+6686191000006112,hemodialysis-associated pseudoporphyria,403732009,1
+6686201000006110,pseudoporphyria in haemodialysis,403732009,1
+6686211000006113,pseudoporphyria in hemodialysis,403732009,1
+6686221000006117,haemodialysis-associated pruritus,403733004,1
+6686231000006119,hemodialysis-associated pruritus,403733004,1
+6686241000006112,pruritus due to haemodialysis,403733004,1
+6686251000006114,pruritus due to hemodialysis,403733004,1
+6703951000006115,peritoneal dialysis leakage,404813001,1
+6707481000006110,haemodialysis access site status,405044002,1
+6707491000006113,hemodialysis access site status,405044002,1
+6707501000006117,haemodialysis access status,405044002,1
+6707511000006119,hemodialysis access status,405044002,1
+6765381000006112,haemodialysis-associated hypotension,408667000,1
+6765391000006110,hemodialysis-associated hypotension,408667000,1
+677461000006115,"nephrotic syndrome, diffuse mesangial proliferative glomerulonephritis",197596007,1
+677471000006110,"nephrotic syndrome, diffuse mesangiocapillary glomerulonephritis",197598008,1
+677481000006113,"nephrotic syndrome, diffuse endocapillary proliferative glomerulonephritis",197597003,1
+677561000006119,nephrotic syndrome in systemic lupus erythematosus,68815009,1
+677621000006112,nephrotic syndrome with membranoproliferative glomerulonephritis,197591002,1
+677941000006114,nephritis - chronic,197707007,1
+678061000006111,nephropathy - chronic,90708001,1
+6932431000006113,fluoroscopic angiography of renal transplant,419139005,1
+6932441000006115,renal transplant angiogram,419139005,1
+6933851000006114,fluoroscopic angioplasty of renal transplant,419224002,1
+6933861000006111,fluoroscopy and angioplasty of renal transplant,419224002,1
+6947401000006116,haemodialysis fluid,420051002,1
+6947411000006118,hemodialysis fluid,420051002,1
+6948341000006114,fluoroscopic venography of renal transplant,420106004,1
+6948351000006111,renal transplant venogram,420106004,1
+703481000006116,microcystic type congenital nephrotic syndrome,197601003,1
+7068291000006112,extracorporeal albumin hemodialysis,427053002,1
+7083761000006118,procedure involving peritoneal dialysis catheter,428118009,1
+7083771000006113,peritoneal dialysis catheter procedure,428118009,1
+7090481000006112,hypertension secondary to kidney transplant,428575007,1
+7094321000006114,pretransplant evaluation of kidney recipient,428830000,1
+7095851000006114,dependence on peritoneal dialysis due to end stage renal disease,428937001,1
+7096521000006114,dependence on haemodialysis due to end stage renal disease,428982002,1
+7096531000006112,dependence on hemodialysis due to end stage renal disease,428982002,1
+710221000006113,finnish congenital nephrotic syndrome,197601003,1
+7103511000006119,disorder related to renal transplantation,429451003,1
+7130251000006116,mechanical complication of peritoneal dialysis catheter,431028002,1
+713611000006110,mechanical failure of instrument or apparatus during kidney dialysis,269698004,1
+713671000006118,mechanical failure of apparatus during renal dialysis,269698004,1
+7147781000006115,ckd stage 4,431857002,1
+7148101000006112,peritonitis due to infected peritoneal dialysis catheter,431873008,1
+7150601000006116,us doppler scan of transplanted kidney,431988002,1
+7150611000006118,doppler ultrasonography (us) of transplanted kidney,431988002,1
+7150621000006114,doppler ultrasonography of transplanted kidney,431988002,1
+7150631000006112,doppler ultrasound scan of transplanted kidney,431988002,1
+7150641000006119,doppler ultrasound of transplanted kidney,431988002,1
+7164581000006111,fluoroscopy guided insertion of peritoneal dialysis catheter,432654009,1
+7164591000006114,fluoroscopic guidance for insertion of peritoneal dialysis catheter,432654009,1
+7164601000006118,insertion of peritoneal dialysis catheter using fluoroscopy guidance,432654009,1
+7164611000006115,peritoneal dialysis catheter insertion,432654009,1
+7174791000006111,ckd stage 3,433144002,1
+7174851000006111,ckd stage 5,433146000,1
+7207581000006116,laparoscopic insertion of peritoneal dialysis catheter,438341004,1
+7207591000006118,replacement of peritoneal dialysis catheter,438342006,1
+7212371000006110,specimen from transplanted kidney obtained by biopsy,438661003,1
+7212381000006113,renal transplant biopsy sample,438661003,1
+7213991000006119,doppler ultrasonography of arteriovenous fistula for haemodialysis,438787007,1
+7214001000006111,doppler ultrasonography of arteriovenous fistula for hemodialysis,438787007,1
+7214301000006113,tissue specimen from transplanted kidney,438804005,1
+7218201000006110,peritoneal dialysis catheter in situ,439073006,1
+7220891000006111,measurement of static venous pressure in haemodialysis vascular access,439278006,1
+7220901000006110,measurement of static venous pressure in hemodialysis vascular access,439278006,1
+7221961000006117,peritoneal dialysis catheter fell out,439360004,1
+7224371000006114,shaving of peritoneal dialysis catheter cuff,439534001,1
+7230311000006111,measurement of recirculation in haemodialysis vascular access,439976001,1
+7230321000006115,measurement of recirculation in hemodialysis vascular access,439976001,1
+7234181000006112,peritoneal dialysis subcutaneous leakage,440228000,1
+7235301000006116,peritoneal dialysis pleural leakage,440310004,1
+7237321000006119,magnetic resonance angiography of transplanted kidney,440449002,1
+7237331000006116,mr angiography of transplanted kidney,440449002,1
+7238471000006113,biopsy of transplanted kidney using ultrasound guidance,440512006,1
+7238481000006111,ultrasonography guided biopsy of transplanted kidney,440512006,1
+7239051000006116,malposition of peritoneal dialysis catheter,440551001,1
+7239671000006118,obstruction of peritoneal dialysis catheter by fibrin formation,440597004,1
+7240511000006118,encapsulating peritoneal sclerosis associated with peritoneal dialysis,440663004,1
+7240521000006114,encapsulating peritoneal sclerosis (eps) associated with peritoneal dialysis,440663004,1
+7243731000006111,temporary peritoneal dialysis catheter in situ,440926006,1
+7261621000006111,measurement of creatinine clearance in peritoneal dialysis fluid specimen,442238003,1
+7262731000006112,cloudy peritoneal dialysis effluent,442326005,1
+7267341000006117,measurement of creatinine clearance normalised to body surface area in peritoneal dialysis fluid specimen,442723000,1
+7267351000006115,measurement of creatinine clearance normalized to body surface area in peritoneal dialysis fluid specimen,442723000,1
+7272711000006110,dependence on haemodialysis,443143006,1
+7272721000006119,dependence on hemodialysis,443143006,1
+7272731000006116,dependent on hemodialysis,443143006,1
+7279701000006119,radionuclide imaging of transplanted kidney,443578000,1
+7279711000006116,radionuclide study of transplanted kidney,443578000,1
+7279961000006115,dependence on peritoneal dialysis,443596009,1
+7285711000006111,quantitative measurement of glucose in peritoneal dialysis fluid specimen,443946002,1
+7285721000006115,quantitative measurement of mass concentration of glucose in peritoneal dialysis fluid specimen,443946002,1
+7286481000006118,quantitative measurement of creatinine in 2 hour postperitoneal dialysis fluid specimen,443993009,1
+7286491000006115,quantitative measurement of mass concentration of creatinine in 2 hour postperitoneal dialysis fluid specimen,443993009,1
+7286501000006111,quantitative measurement of mass concentration of creatinine corrected for glucose concentration in overnight peritoneal dialysis fluid,443994003,1
+7286511000006114,quantitative measurement of mass concentration of creatinine corrected for glucose concentration in overnight peritoneal dialysis fluid specimen,443994003,1
+7289841000006118,quantitative measurement of creatinine in 4 hour postperitoneal dialysis fluid specimen,444224006,1
+7289851000006116,quantitative measurement of mass concentration of creatinine in 4 hour postperitoneal dialysis fluid specimen,444224006,1
+7293001000006112,quantitative measurement of glucose in predialysis peritoneal dialysis fluid specimen,444423002,1
+7293011000006110,quantitative measurement of mass concentration of glucose in predialysis peritoneal dialysis fluid specimen,444423002,1
+7293281000006110,quantitative measurement of concentration of glucose in peritoneal dialysis fluid at 4 hours postperitoneal dialysis,444450007,1
+7293291000006113,quantitative measurement of mass concentration of glucose in peritoneal dialysis fluid specimen at 4 hours postperitoneal dialysis,444450007,1
+7293931000006117,quantitative measurement of glucose in first peritoneal dialysis fluid specimen,444499006,1
+7293941000006110,quantitative measurement of mass concentration of glucose in first peritoneal dialysis fluid specimen,444499006,1
+7300661000006118,predialysis peritoneal dialysis fluid specimen,444959000,1
+7302341000006111,postdialysis peritoneal dialysis fluid specimen,445069004,1
+7307231000006112,haemodialysate specimen from haemodialysis machine using reverse osmosis system,445384000,1
+7307241000006119,hemodialysate specimen from hemodialysis machine using reverse osmosis system,445384000,1
+7309591000006116,haemodialysate specimen from haemodialysis machine using water distribution system,445529007,1
+7309601000006112,hemodialysate specimen from hemodialysis machine using water distribution system,445529007,1
+7316181000006117,duration of haemodialysis session,445940005,1
+7316191000006119,duration of hemodialysis session,445940005,1
+7318211000006119,change of prescription for haemodialysis,446048008,1
+7318221000006110,adjustment of prescription for haemodialysis,446048008,1
+7318231000006113,adjustment of prescription for hemodialysis,446048008,1
+7318241000006115,change of prescription for hemodialysis,446048008,1
+7323961000006114,haemodialysis technique,446402005,1
+7323971000006119,hemodialysis technique,446402005,1
+7338641000006112,dialysis fluid specimen obtained after continuous ambulatory peritoneal dialysis,447355008,1
+7344691000006110,peritoneal dialysis technique,447693007,1
+7354791000006117,removal of haemodialysis catheter,448423006,1
+7354801000006116,removal of hemodialysis catheter,448423006,1
+7369251000006114,replacement of peritoneal dialysis transfer set,449394000,1
+7384261000006113,nontunneled haemodialysis catheter,450864003,1
+7384271000006118,nontunneled hemodialysis catheter,450864003,1
+7384281000006115,insertion of nontunneled haemodialysis catheter,450865002,1
+7384291000006117,insertion of nontunneled hemodialysis catheter,450865002,1
+7384301000006116,haemodialysis catheter,450866001,1
+7384311000006118,hemodialysis catheter,450866001,1
+7400351000006119,haemodialysis system blood leak detector,462191006,1
+7400361000006117,hemodialysis system blood leak detector,462191006,1
+7400641000006114,haemodialysis fistula dressing,462231004,1
+7400651000006111,hemodialysis fistula dressing,462231004,1
+7400671000006118,peritoneal dialysis system,462233001,1
+7400811000006111,peritoneal dialysis system dialysate filter,462250004,1
+7400821000006115,"haemodialysis chair, manual",462251000,1
+7400831000006117,"hemodialysis chair, manual",462251000,1
+7401011000006113,"haemodialysis catheter, implantable",462275000,1
+7401021000006117,"hemodialysis catheter, implantable",462275000,1
+7401311000006110,haemodialysis system dialysate level detector,462311000,1
+7401321000006119,hemodialysis system dialysate level detector,462311000,1
+7401361000006113,haemodialysis start/stop set,462316005,1
+7401371000006118,hemodialysis start/stop set,462316005,1
+7401551000006115,haemodialysis treatment kit,462337002,1
+7401561000006118,hemodialysis treatment kit,462337002,1
+7401581000006111,haemodialysis dialysate electrical conductivity meter,462341003,1
+7401591000006114,hemodialysis dialysate electrical conductivity meter,462341003,1
+7401651000006119,haemodialysis system dialysate delivery unit,462351002,1
+7401661000006117,hemodialysis system dialysate delivery unit,462351002,1
+7401751000006112,"peritoneal dialysis catheter, acute/chronic",462364001,1
+7401851000006118,peritoneal dialysis dialysate,462379008,1
+7402391000006112,haemodialysis system volume control unit,462433004,1
+7402401000006114,hemodialysis system volume control unit,462433004,1
+7402561000006111,haemodialysis system dialysate pyrogen filter,462454006,1
+7402571000006116,hemodialysis system dialysate pyrogen filter,462454006,1
+7402641000006113,"haemodialysis chair, electric",462465001,1
+7402651000006110,"hemodialysis chair, electric",462465001,1
+7402951000006119,"haemodialysis catheter, nonimplantable",462501006,1
+7402961000006117,"hemodialysis catheter, nonimplantable",462501006,1
+7403031000006118,haemodialysis dialysate,462512006,1
+7403041000006111,hemodialysis dialysate,462512006,1
+7403361000006112,"haemodialysis system, institutional/home-use",462550000,1
+7403371000006117,"hemodialysis system, institutional/home-use",462550000,1
+7403941000006112,haemodialysis needle,462617005,1
+7403951000006114,hemodialysis needle,462617005,1
+7404591000006111,haemodialysis system blood pump,462688007,1
+7404601000006115,hemodialysis system blood pump,462688007,1
+7404651000006116,"peritoneal dialysis catheter, chronic",462692000,1
+7404661000006119,peritoneal dialysis catheterisation kit,462693005,1
+7404671000006114,peritoneal dialysis catheterization kit,462693005,1
+7405131000006116,haemodialysis system transducer protector,462736008,1
+7405141000006114,hemodialysis system transducer protector,462736008,1
+7405461000006117,haemodialysis system blood level detector,462771008,1
+7405471000006112,hemodialysis system blood level detector,462771008,1
+7405661000006115,peritoneal dialysis dialysate warmer,462795005,1
+7405731000006115,peritoneal dialysis system sterile connection unit,462802008,1
+7405851000006116,haemodialysis arm clamp,462821000,1
+7405861000006119,hemodialysis arm clamp,462821000,1
+7405871000006114,haemodialysis dialysate tank,462823002,1
+7405881000006112,hemodialysis dialysate tank,462823002,1
+7406421000006115,haemodialysis system bicarbonate mixer,462888009,1
+7406431000006117,hemodialysis system bicarbonate mixer,462888009,1
+7406481000006116,haemodialysis system plasma filtration unit,462892002,1
+7406491000006118,hemodialysis system plasma filtration unit,462892002,1
+7406661000006111,haemodialysis dialysate tubing,462912002,1
+7406671000006116,hemodialysis dialysate tubing,462912002,1
+7406851000006110,peritoneal dialysis system tubing set,462933006,1
+7407241000006112,haemodialysis dialyser reprocessing system,462976008,1
+7407251000006114,hemodialysis dialyzer reprocessing system,462976008,1
+7407581000006115,haemodialysis dialysate tester,463020009,1
+7407591000006117,hemodialysis dialysate tester,463020009,1
+7407741000006116,haemodialysis system dialysate flowmeter,463035005,1
+7407751000006119,hemodialysis system dialysate flowmeter,463035005,1
+7407801000006114,"haemodialysis system, institutional",463041003,1
+7407811000006112,"hemodialysis system, institutional",463041003,1
+7407851000006113,peritoneal dialysis catheter adaptor,463046008,1
+7408121000006111,"haemodialysis tubing set, reprocessed",463078000,1
+7408131000006114,"hemodialysis tubing set, reprocessed",463078000,1
+7408241000006113,haemodialysis system dialysate pyrogen-filtration set,463092006,1
+7408251000006110,hemodialysis system dialysate pyrogen-filtration set,463092006,1
+7408491000006117,"peritoneal dialysis catheter, acute",463120006,1
+7408561000006114,haemodialysis system fluid mixer,463128004,1
+7408571000006119,hemodialysis system fluid mixer,463128004,1
+7408691000006119,haemodialysis system dialyser holder,463137004,1
+7408701000006119,hemodialysis system dialyzer holder,463137004,1
+7408721000006112,"haemodialysis tubing set, single-use",463139001,1
+7408731000006110,"hemodialysis tubing set, single-use",463139001,1
+7408791000006114,"haemodialysis dialysate delivery system, multi-patient",463147001,1
+7408801000006110,"hemodialysis dialysate delivery system, multi-patient",463147001,1
+7408821000006117,haemodialysis system air/foam detector,463152006,1
+7408831000006119,hemodialysis system air/foam detector,463152006,1
+7408891000006115,haemodialysis system blood line clamp,463162004,1
+7408901000006116,hemodialysis system blood line clamp,463162004,1
+7408921000006114,haemodialysis system dialysate temperature alarm,463165002,1
+7408931000006112,hemodialysis system dialysate temperature alarm,463165002,1
+7448891000006111,continuous ambulatory peritoneal dialysis (capd) transfer set,467745002,1
+74720014,lipoid nephrosis,44785005,1
+7482341000006116,infection associated with peritoneal dialysis catheter,473069007,1
+7483511000006116,malfunction of peritoneal dialysis catheter,473147002,1
+7484161000006113,leakage of peritoneal dialysis catheter,473190001,1
+7484221000006112,normal renal function of transplanted kidney,473195006,1
+7502751000006112,referral to surgical transplant service for renal transplant evaluation,697982000,1
+7514951000006119,misplacement of haemodialysis catheter,698937002,1
+7514961000006117,misplacement of hemodialysis catheter,698937002,1
+7518811000006118,capd (continuous ambulatory peritoneal dialysis) associated peritonitis,699235009,1
+754061000006111,"kidney transplant with complication, without blame",88797001,1
+7541841000006118,"hollow-fibre haemodialysis dialyser, low flux, single-use",701063000,1
+7541851000006116,"hollow-fiber hemodialysis dialyzer, low flux, single-use",701063000,1
+7541941000006111,"parallel-plate haemodialysis dialyser, disposable-insert",701068009,1
+7541951000006113,"parallel-plate hemodialysis dialyzer, disposable-insert",701068009,1
+7542241000006113,"parallel-plate haemodialysis dialyser, high-permeability",701083004,1
+7542251000006110,"parallel-plate hemodialysis dialyzer, high-permeability",701083004,1
+7542381000006112,"parallel-plate haemodialysis dialyser, standard",701091008,1
+7542391000006110,"parallel-plate hemodialysis dialyzer, standard",701091008,1
+7542971000006110,"hollow-fibre haemodialysis dialyser, low flux, reusable",701122009,1
+7542981000006113,"hollow-fiber hemodialysis dialyzer, low flux, reusable",701122009,1
+7543151000006110,"hollow-fibre haemodialysis dialyser, high flux, reusable",701131009,1
+7543161000006112,"hollow-fiber hemodialysis dialyzer, high flux, reusable",701131009,1
+7543271000006112,"hollow-fibre haemodialysis dialyser, high flux, single-use",701137008,1
+7543281000006110,"hollow-fiber hemodialysis dialyzer, high flux, single-use",701137008,1
+754781000006116,"kidney dialysis with complication, without blame",116223007,1
+7555421000006111,haemodialysis system operation software,702141009,1
+7555431000006114,hemodialysis system operation software,702141009,1
+7555781000006119,"haemodialysis tubing set, reusable",702176006,1
+7555791000006116,"hemodialysis tubing set, reusable",702176006,1
+7564221000006119,inadequate peritoneal dialysis,702634004,1
+7564231000006116,inadequate haemodialysis,702635003,1
+7564241000006114,inadequate hemodialysis,702635003,1
+7569831000006116,post-renal transplant vesicoureteric reflux,703048006,1
+7569841000006114,vesicoureteric reflux after renal transplant,703048006,1
+7570441000006114,fluoroscopy guided peritoneal dialysis catheter procedure,703094009,1
+7570451000006111,peritoneal dialysis catheter procedure using fluoroscopic guidance,703094009,1
+7589131000006114,difficulty managing peritoneal dialysis,704308002,1
+7595151000006116,haemodialysis catheterisation kit,704815000,1
+7595161000006119,hemodialysis catheterization kit,704815000,1
+7601911000006112,haemodialysis dialyzer,705490008,1
+7601921000006116,hemodialysis dialyzer,705490008,1
+7612311000006115,spondyloarthropathy due to hemodialysis-associated amyloidosis,707090004,1
+7613121000006116,recurrent post-transplant renal disease,707148007,1
+7613791000006118,familial non-obstructive reflux-associated chronic pyelonephritis,707208009,1
+7622641000006118,two hours after peritoneal dialysis,707720002,1
+7622651000006116,2h post peritoneal dialysis,707720002,1
+7622661000006119,four hours after peritoneal dialysis,707721003,1
+7622671000006114,4h post peritoneal dialysis,707721003,1
+7622681000006112,twelve hours after peritoneal dialysis,707722005,1
+7622691000006110,12h post peritoneal dialysis,707722005,1
+7622701000006110,one day after peritoneal dialysis,707723000,1
+7622711000006113,twenty four hours after peritoneal dialysis,707723000,1
+7622721000006117,24h post peritoneal dialysis,707723000,1
+7626811000006117,increase exchange volume of peritoneal dialysis,708008000,1
+7626821000006113,increase number of perfusion exchanges per 24 hours of peritoneal dialysis,708009008,1
+7626841000006118,increase blood flow for haemodialysis,708011004,1
+7626851000006116,increase blood flow for hemodialysis,708011004,1
+7626861000006119,increase session time for haemodialysis,708012006,1
+7626871000006114,increase session time for hemodialysis,708012006,1
+7641781000006113,maintenance haemodialysis,708931003,1
+7641791000006111,maintenance hemodialysis,708931003,1
+7641801000006112,emergency haemodialysis,708932005,1
+7641811000006110,emergency hemodialysis,708932005,1
+7688541000006114,transplantation of kidney regime,711446003,1
+7691301000006112,peritoneal dialysis catheterisation support kit,712472005,1
+7691311000006110,peritoneal dialysis catheterization support kit,712472005,1
+7694951000006112,replacement of continuous ambulatory peritoneal dialysis transfer set,712754003,1
+7707941000006112,nephrotic syndrome co-occurrent with human immunodeficiency virus infection,713695001,1
+7708331000006119,sclerosing peritonitis as complication of peritoneal dialysis,713720009,1
+7708341000006112,sclerosing peritonitis due to peritoneal dialysis,713720009,1
+7708351000006114,hydrothorax as complication of peritoneal dialysis,713721008,1
+7708361000006111,hydrothorax due to peritoneal dialysis,713721008,1
+7708401000006118,abdominal hernia as complication of peritoneal dialysis,713724000,1
+7708411000006115,abdominal hernia due to peritoneal dialysis,713724000,1
+7708441000006116,haemoperitoneum as complication of peritoneal dialysis,713727007,1
+7708451000006119,hemoperitoneum due to peritoneal dialysis,713727007,1
+7708461000006117,hemoperitoneum as complication of peritoneal dialysis,713727007,1
+7708471000006112,haemoperitoneum due to peritoneal dialysis,713727007,1
+7709531000006119,haemodialysis and/or central venous catheterisation kit,713780006,1
+7709541000006112,hemodialysis and/or central venous catheterization kit,713780006,1
+7709551000006114,triple lumen haemodialysis catheter,713781005,1
+7709561000006111,triple lumen hemodialysis catheter,713781005,1
+7710031000006116,structure of renal artery of transplanted kidney,713824006,1
+7710051000006111,renal artery stenosis of transplanted kidney,713825007,1
+7714891000006118,chronic kidney disease stage 5 on dialysis,714152005,1
+7714901000006119,chronic kidney disease 5d,714152005,1
+7714911000006116,ckd (chronic kidney disease) stage 5d,714152005,1
+7714921000006112,chronic kidney disease stage 5 with transplant,714153000,1
+7714931000006110,chronic kidney disease 5t,714153000,1
+7714941000006117,ckd (chronic kidney disease) stage 5t,714153000,1
+773041000006111,insertion of chronic ambulatory peritoneal dialysis catheter,180272001,1
+7757741000006117,sporadic idiopathic steroid-resistant nephrotic syndrome,717191005,1
+7761641000006110,peritoneal dialysis care assessment,717738008,1
+7761921000006113,multi-drug resistant nephrotic syndrome,717760006,1
+7766371000006116,fluoroscopy guided antegrade insertion of ureteric stent into ureter of transplanted kidney,718030008,1
+7766381000006118,antegrade insertion of ureteric stent into ureter of transplanted kidney using fluoroscopic guidance,718030008,1
+7766391000006115,fluoroscopy guided retrograde insertion of ureteric stent into ureter of transplanted kidney,718031007,1
+7766401000006118,retrograde insertion of ureteric stent into ureter of transplanted kidney using fluoroscopic guidance,718031007,1
+7768141000006110,familial idiopathic steroid-resistant nephrotic syndrome,718141008,1
+7770551000006113,peritoneal dialysis care,718308002,1
+7770921000006110,haemodialysis care,718330001,1
+7770931000006113,hemodialysis care,718330001,1
+7770941000006115,haemodialysis care assessment,718331002,1
+7770951000006118,hemodialysis care assessment,718331002,1
+7785581000006115,kidney transplant recipient,719352000,1
+7802491000006114,haemodialysis water purification system washer/disinfector,720350002,1
+7802501000006118,hemodialysis water purification system washer/disinfector,720350002,1
+7815201000006111,"microcephaly, hiatus hernia, nephrotic syndrome",721297008,1
+7827571000006118,congenital nephrotic syndrome due to congenital infection,722118005,1
+7827581000006115,congenital nephrotic syndrome (cns) due to congenital infection,722118005,1
+7830451000006112,congenital nephrotic syndrome due to diffuse mesangial sclerosis,722369003,1
+7830461000006114,congenital nephrotic syndrome (cns) due to diffuse mesangial sclerosis,722369003,1
+7846921000006112,haemodialysis dialysate water chlorine test kit,723702004,1
+7846931000006110,hemodialysis dialysate water chlorine test kit,723702004,1
+7846941000006117,haemodialysis equipment residual chlorine test strip,723703009,1
+7846951000006115,hemodialysis equipment residual chlorine test strip,723703009,1
+7858521000006119,osteonecrosis due to and following renal dialysis,724612006,1
+7932051000006112,entire renal artery of transplanted kidney,731627000,1
+7958091000006119,"congenital nephrotic syndrome, interstitial lung disease, epidermolysis bullosa syndrome",733453005,1
+7958101000006113,"congenital ilneb (interstitial lung disease, nephrotic syndrome, epidermolysis bullosa) syndrome",733453005,1
+7958111000006111,"congenital nephrotic syndrome, epidermolysis bullosa, pulmonary disease syndrome",733453005,1
+7960171000006111,home-use peritoneal dialysis connection kit,733699001,1
+7960181000006114,home-use peritoneal dialysis connection kit housing,733700000,1
+7960191000006112,home-use peritoneal dialysis connection kit frame,733701001,1
+7960271000006116,"peritoneal dialysis catheter adaptor, reusable",733706006,1
+7960281000006118,peritoneal dialysis catheter adaptor/dialysate line holder,733707002,1
+7960291000006115,"single-lumen haemodialysis catheter, peripheral vascular",733708007,1
+7960301000006119,"single-lumen hemodialysis catheter, peripheral vascular",733708007,1
+7965291000006110,haemodialysis finding,331000124109,1
+7965301000006111,hemodialysis finding,331000124109,1
+7965331000006115,peritoneal dialysis finding,341000124104,1
+7965381000006119,error in prescription for peritoneal dialysis,361000124100,1
+7965441000006117,increase dialyser size for haemodialysis,381000124105,1
+7965451000006115,increase dialyzer size for hemodialysis,381000124105,1
+7965501000006118,haemodialysis blood flow,401000124105,1
+7965511000006115,hemodialysis blood flow,401000124105,1
+7965521000006111,haemodialysis residual renal function,411000124108,1
+7965531000006114,hemodialysis residual renal function,411000124108,1
+7965541000006116,haemodialysis access site non-patent,431000124102,1
+7965551000006119,hemodialysis access site non-patent,431000124102,1
+7965561000006117,haemodialysis access site patent,441000124107,1
+7965571000006112,hemodialysis access site patent,441000124107,1
+7965601000006117,increase in haemodialysis blood flow,451000124109,1
+7965611000006119,increase in hemodialysis blood flow,451000124109,1
+7965641000006115,increase in haemodialysis dialyzer size,461000124106,1
+7965651000006118,increase in hemodialysis dialyzer size,461000124106,1
+7965701000006112,increase in haemodialysis session time,471000124104,1
+7965711000006110,increase in hemodialysis session time,471000124104,1
+7965731000006116,haemodialysis observable,481000124101,1
+7965741000006114,hemodialysis observable,481000124101,1
+7966231000006117,compliant with peritoneal dialysis prescription,631000124104,1
+7966301000006117,non-compliant with peritoneal dialysis prescription,641000124109,1
+7966361000006116,peritoneal dialysis prescription compliance,651000124106,1
+7966611000006114,chronic kidney disease stage 5 due to type 2 diabetes mellitus,711000119100,1
+7966631000006115,chronic kidney disease stage 5 due to type ii diabetes mellitus,711000119100,1
+7966641000006113,chronic kidney disease stage 4 due to type 2 diabetes mellitus,721000119107,1
+7966661000006112,chronic kidney disease stage 4 due to type ii diabetes mellitus,721000119107,1
+7966691000006116,chronic kidney disease stage 3 due to type 2 diabetes mellitus,731000119105,1
+7966711000006118,chronic kidney disease stage 3 due to type ii diabetes mellitus,731000119105,1
+7985891000006113,transplantation of kidney and pancreas,6471000179103,1
+7985971000006118,laparoscopic biopsy of transplanted kidney,6501000179109,1
+8022381000006115,nephrotic syndrome due to type 2 diabetes mellitus,71441000119104,1
+8022431000006111,nephrotic syndrome due to type 1 diabetes mellitus,71721000119101,1
+8027251000006115,history of nephrotic syndrome,90171000119101,1
+8027451000006119,chronic kidney disease stage 3 due to type 1 diabetes mellitus,90741000119107,1
+8027461000006117,chronic kidney disease stage 3 due to type i diabetes mellitus,90741000119107,1
+8027471000006112,chronic kidney disease stage 4 due to type 1 diabetes mellitus,90751000119109,1
+8027481000006110,chronic kidney disease stage 4 due to type i diabetes mellitus,90751000119109,1
+8027491000006113,chronic kidney disease stage 5 due to type 1 diabetes mellitus,90761000119106,1
+8027501000006117,chronic kidney disease stage 5 due to type i diabetes mellitus,90761000119106,1
+8030411000006118,hypertensive heart and chronic kidney disease stage 5,96711000119105,1
+8030421000006114,hypertensive heart and chronic kidney disease stage 4,96721000119103,1
+8030431000006112,hypertensive heart and chronic kidney disease stage 3,96731000119100,1
+8039001000006115,non-compliance with renal dialysis,125141000119102,1
+8040661000006119,chronic kidney disease stage 4 due to hypertension,129151000119102,1
+8040671000006114,chronic kidney disease stage 5 due to hypertension,129161000119100,1
+8040681000006112,chronic kidney disease stage 3 due to hypertension,129171000119106,1
+8041731000006110,thrombosis of arteriovenous graft due to haemodialysis arteriovenous access device,133031000119106,1
+8041741000006117,thrombosis of arteriovenous graft due to hemodialysis arteriovenous access device,133031000119106,1
+8041751000006115,thrombosis of arteriovenous graft caused by haemodialysis arteriovenous access device,133031000119106,1
+8041761000006118,thrombosis of arteriovenous graft caused by hemodialysis arteriovenous access device,133031000119106,1
+8044011000006117,hypertension in chronic kidney disease stage 5 due to type 2 diabetes mellitus,140101000119109,1
+8044021000006113,hypertension in chronic kidney disease stage 5 due to type ii diabetes mellitus,140101000119109,1
+8044041000006118,hypertension in chronic kidney disease stage 4 due to type 2 diabetes mellitus,140111000119107,1
+8044051000006116,hypertension in chronic kidney disease stage 4 due to type ii diabetes mellitus,140111000119107,1
+8044061000006119,hypertension in chronic kidney disease stage 3 due to type 2 diabetes mellitus,140121000119100,1
+8044071000006114,hypertension in chronic kidney disease stage 3 due to type ii diabetes mellitus,140121000119100,1
+8047651000006115,haemodialysis procedure done,152421000119107,1
+8047661000006118,hemodialysis procedure done,152421000119107,1
+8047971000006118,malignant hypertensive chronic kidney disease stage 5,153851000119106,1
+8087071000006112,chronic kidney disease stage 3 due to benign hypertension,284991000119104,1
+8087081000006110,chronic kidney disease stage 4 due to benign hypertension,285001000119105,1
+8087091000006113,chronic kidney disease stage 5 due to benign hypertension,285011000119108,1
+8087691000006115,malignant hypertensive chronic kidney disease stage 3,285871000119106,1
+8087701000006115,malignant hypertensive chronic kidney disease stage 4,285881000119109,1
+8091151000006111,nephrotic syndrome co-occurrent and due to systemic lupus erythematosus,295111000119108,1
+8104231000006115,ckd (chronic kidney disease) stage 3 with proteinuria,324251000000105,1
+8104261000006112,ckd (chronic kidney disease) stage 3 without proteinuria,324281000000104,1
+8104301000006115,ckd (chronic kidney disease) stage 3a with proteinuria,324311000000101,1
+8104351000006116,ckd (chronic kidney disease) stage 3a without proteinuria,324341000000100,1
+8104381000006112,ckd (chronic kidney disease) stage 3b with proteinuria,324371000000106,1
+8104411000006110,ckd (chronic kidney disease) stage 3b without proteinuria,324411000000105,1
+8104451000006111,ckd (chronic kidney disease) stage 4 with proteinuria,324441000000106,1
+8104481000006115,ckd (chronic kidney disease) stage 4 without proteinuria,324471000000100,1
+8104511000006111,ckd (chronic kidney disease) stage 5 with proteinuria,324501000000107,1
+8104551000006112,ckd (chronic kidney disease) stage 5 without proteinuria,324541000000105,1
+8115641000006112,kidney transplant tissue sample,362361000000102,1
+8116881000006112,fibrin formation around peritoneal dialysis catheter,364761000000109,1
+8117011000006113,peritoneal dialysis associated encapsulating peritoneal sclerosis,365001000000107,1
+8117021000006117,peritoneal dialysis associated eps (encapsulating peritoneal sclerosis),365001000000107,1
+8117811000006119,renal transplant recipient,366961000000102,1
+8120521000006119,nephrotic syndrome co-occurrent and due to membranoproliferative glomerulonephritis type iii,368911000119109,1
+8120531000006116,nephrotic syndrome co-occurrent and due to membranoproliferative glomerulonephritis type 3,368911000119109,1
+81307015,congenital nephrotic syndrome,48796009,1
+8194521000006118,haemodialysis machine sodium level,517561000000106,1
+8194551000006110,haemodialysis blood flow rate,517591000000100,1
+8194561000006112,haemodialysis extracorporeal circuit volume,517601000000106,1
+8194571000006117,haemodialysis machine bicarbonate level,517611000000108,1
+8194591000006116,haemodialysis pump speed,517621000000102,1
+8194601000006112,haemodialysis ultrafiltration rate,517631000000100,1
+8194611000006110,haemodialysis ultrafiltration volume,517641000000109,1
+8194631000006116,haemodialysis sodium profile type,517691000000104,1
+8194731000006113,haemodialysis anticoagulant bolus dose,518191000000106,1
+8194741000006115,duration of haemodialysis,518201000000108,1
+8194751000006118,haemodialysis anticoagulant infusion rate,518211000000105,1
+8194761000006116,haemodialysis blood circuit connection,518221000000104,1
+8194771000006111,haemodialysis needle gauge,518231000000102,1
+8194781000006114,haemodialysis priming volume,518241000000106,1
+8194791000006112,haemodialysis pump head segment,518251000000109,1
+8194831000006117,haemodialysis machine stroke volume,518311000000100,1
+8196591000006113,failure of haemodialysis catheter,523441000000106,1
+8212311000006110,anaemia in chronic kidney disease stage 4,691401000119104,1
+8212321000006119,anemia co-occurrent and due to chronic kidney disease stage 4,691401000119104,1
+8212331000006116,anemia in chronic kidney disease stage 4,691401000119104,1
+8212341000006114,anaemia co-occurrent and due to chronic kidney disease stage 4,691401000119104,1
+8212361000006113,anaemia in chronic kidney disease stage 5,691411000119101,1
+8212371000006118,anemia co-occurrent and due to chronic kidney disease stage 5,691411000119101,1
+8212381000006115,anaemia co-occurrent and due to chronic kidney disease stage 5,691411000119101,1
+8212391000006117,anemia in chronic kidney disease stage 5,691411000119101,1
+8212401000006115,anaemia co-occurrent and due to chronic kidney disease stage 3,691421000119108,1
+8212411000006117,anemia co-occurrent and due to chronic kidney disease stage 3,691421000119108,1
+8290931000006115,haemodialysis care plan,851641000000108,1
+8321121000006114,ultrasonography guided insertion of nephrostomy tube into transplanted kidney,905871000000102,1
+8321131000006112,ultrasound guided insertion of nephrostomy tube into transplanted kidney,905871000000102,1
+8321141000006119,fluoroscopy guided insertion of nephrostomy tube into transplanted kidney,905881000000100,1
+8335251000006112,ultrasonography of transplanted kidney with contrast,927531000000100,1
+8335261000006114,ultrasound scan of transplanted kidney with contrast,927531000000100,1
+8345881000006116,chronic kidney disease with glomerular filtration rate category g3a and albuminuria category a1,949881000000106,1
+8345901000006119,chronic kidney disease with glomerular filtration rate category g3a and albuminuria category a2,949901000000109,1
+8345931000006110,chronic kidney disease with glomerular filtration rate category g3a and albuminuria category a3,949921000000100,1
+8346001000006110,chronic kidney disease with glomerular filtration rate category g3b and albuminuria category a1,950061000000103,1
+8346021000006117,chronic kidney disease with glomerular filtration rate category g3b and albuminuria category a2,950081000000107,1
+8346041000006112,chronic kidney disease with glomerular filtration rate category g3b and albuminuria category a3,950101000000101,1
+8346101000006114,chronic kidney disease with glomerular filtration rate category g4 and albuminuria category a1,950181000000106,1
+8346121000006116,chronic kidney disease with glomerular filtration rate category g4 and albuminuria category a2,950211000000107,1
+8346151000006113,chronic kidney disease with glomerular filtration rate category g4 and albuminuria category a3,950231000000104,1
+8346171000006115,chronic kidney disease with glomerular filtration rate category g5 and albuminuria category a1,950251000000106,1
+8346201000006116,chronic kidney disease with glomerular filtration rate category g5 and albuminuria category a2,950291000000103,1
+8346221000006114,chronic kidney disease with glomerular filtration rate category g5 and albuminuria category a3,950311000000102,1
+8348921000006119,fluoroscopy guided antegrade insertion of stent into ureter of transplanted kidney,955621000000105,1
+8348931000006116,fluoroscopy guided retrograde insertion of stent into ureter of transplanted kidney,955631000000107,1
+8450921000006111,pretransplant evaluation of kidney and pancreas recipient,1076401000000104,1
+8451011000006112,assessment prior to construction of renal dialysis vascular access,1076461000000100,1
+8451051000006113,assessment of existing renal dialysis vascular access,1076481000000109,1
+8451601000006117,fluoroscopy guided removal of nephrostomy tube from transplanted kidney,1076771000000100,1
+86957016,nephrotic syndrome,52254009,1
+900121000006113,renal transplant rejected,236570004,1
+90461000006118,transplantation of kidney from cadaver,175902000,1
+906311000006117,[rfc] continuous ambulatory peritoneal dialysis,906311000006101,1
+906351000006116,[rfc] renal transplant,906351000006100,1
+9351511000006113,dependence on continuous ambulatory peritoneal dialysis,11000731000119102,1
+9351521000006117,dependence on continuous cycling peritoneal dialysis,11000771000119104,1
+9351531000006119,continuous cycling peritoneal dialysis dependence,11000771000119104,1
+9351541000006112,dependence on continuous cyclic peritoneal dialysis,11000771000119104,1
+9352761000006114,renal dialysis done,11009631000119100,1
+988961000006115,renal transplant rejected,213150003,1
+994421000006111,chronic kidney disease stage 3,994421000006107,1
+994431000006114,chronic kidney disease stage 4,994431000006105,1
+994441000006116,chronic kidney disease stage 5,994441000006100,1
